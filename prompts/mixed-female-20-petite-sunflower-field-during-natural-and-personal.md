@@ -1,0 +1,129 @@
+# Mixed Female, 20, Petite - Sunflower Field During - Natural And Personal
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/mixed-female-20-petite-sunflower-field-during-natural-and-personal?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/mixed-female-20-petite-sunflower-field-during-natural-and-personal?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Mixed Female, 20, Petite - Sunflower Field During - Natural And Personal](https://ac4m.com/uploads/mixed-female-20-petite-sunflower-field-during-natu_695e408ea5337.webp)
+
+## Description
+
+Mixed female, 20, petite, wearing crop top and midi skirt, playful pose while sitting in a sunflower field, at sunflower field with vibrant flowers all around, with a joyful and intimate atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Sunflower field during sunset with a warm atmosphere",
+    "subject": {
+        "character": "Mixed female, 20, petite",
+        "face": {
+            "structure": "round face shape with gentle features",
+            "skin": "fair skin with healthy natural texture",
+            "eyes": {
+                "shape": "round natural eyes",
+                "color": "dark brown",
+                "expression": "confident gaze"
+            },
+            "mouth": {
+                "lips": "plump mauve lips with a slight pout"
+            }
+        },
+        "hair": {
+            "color": "silver",
+            "state": "curly and tousled",
+            "texture": "soft curls",
+            "style": "messy bun",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "smooth and slightly dewy",
+            "details": "subtle freckles"
+        }
+    },
+    "pose": {
+        "overall": "playful pose while sitting in a sunflower field",
+        "position": {
+            "base": "sitting",
+            "orientation": "facing slightly to the right"
+        },
+        "torso": {
+            "direction": "slightly angled",
+            "curve": "gentle S-curve"
+        },
+        "arms": {
+            "position": "one arm crossed and the other covering her mouth"
+        },
+        "head": {
+            "turn": "looking down towards her lap",
+            "expression": "playful smirk"
+        }
+    },
+    "outfit": {
+        "type": "crop top and midi skirt",
+        "color": "pastel tones",
+        "style": "fitted mesh outfit",
+        "fit": "tight and flattering"
+    },
+    "environment": {
+        "location": "sunflower field with vibrant flowers all around",
+        "details": "golden hour light illuminating the scene",
+        "background": "sunset sky with perfect blend of orange and pink",
+        "props": "holding a white rose and sitting among sunflowers"
+    },
+    "lighting": {
+        "type": "natural light",
+        "quality": {
+            "intensity": "harsh sunlight",
+            "direction": "from below, creating soft shadows"
+        },
+        "on_subject": {
+            "highlights": "front of the subject's face and shoulders",
+            "shadows": "soft shadows under the chin"
+        }
+    },
+    "photography": {
+        "angle": "low angle to emphasize subject against the sunflowers",
+        "shot": "medium close-up",
+        "framing": "centered composition with sunflowers framing the subject",
+        "focus": "sharp focus on the subject while slightly softening the background",
+        "style": "fashion photography"
+    },
+    "color_palette": {
+        "dominant": "yellows and greens from sunflowers",
+        "accent": "soft pastels from clothing",
+        "mood": "warm and cheerful"
+    },
+    "vibe": {
+        "energy": "playful and light-hearted",
+        "mood": "joyful and intimate",
+        "aesthetic": "natural and personal"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young woman with natural features",
+        "POSE": "sitting in a playful yet confident manner",
+        "OUTFIT": "stylish crop top and midi skirt in pastel colors",
+        "SETTING": "sunflower field during sunset",
+        "STYLE": "photorealistic and UGC-friendly"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #female #woman #fairskin #darkeyes #naturalandpersonal #joyfulandintimate #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/mixed-female-20-petite-sunflower-field-during-natural-and-personal?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
