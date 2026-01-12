@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-202+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-212+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (202)
+## :camera: AI Prompts (212)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-6.md) |
+| :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-5.md) |
+| :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-4.md) |
+| :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-2.md) |
+| :framed_picture: | Professional UGC Style Photo Of A Handso... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-handsome-young-man-ultra-realistic-highly-detailed-professio.md) |
+| :framed_picture: | Playful Morning in a Bohemian Bathroom | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-morning-in-a-bohemian-bathroom.md) |
+| :framed_picture: | Cozy Modern Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-modern-bedroom-portrait.md) |
+| :framed_picture: | Confident Golfer at Golden Hour | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-golfer-at-golden-hour.md) |
+| :framed_picture: | Midnight Urban Vibe with an Indian Man | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/midnight-urban-vibe-with-an-indian-man.md) |
+| :framed_picture: | Elegant Woman in Luxury Restaurant | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-woman-in-luxury-restaurant.md) |
 | :framed_picture: | Charming Morning at an Urban Restaurant | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/charming-morning-at-an-urban-restaurant.md) |
 | :framed_picture: | Charming Autumn Vibes by the Venetian Ca... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/charming-autumn-vibes-by-the-venetian-canal.md) |
 | :framed_picture: | Joyful Celebration at the Wine Bar | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/joyful-celebration-at-the-wine-bar.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Light Brown Male, Mid - Dock Harbor Duri... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-male-mid-dock-harbor-during-elegant-refined-with-a-touch-of-grunge.md) |
 | :framed_picture: | Handsome Anime Boy - Tokyo Neon Street -... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-tokyo-neon-street-shonen-anime-style-with-wit-studio-dynamic-influence.md) |
 | :framed_picture: | Brunette Female, Age 20, - Japanese Gard... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-age-20-japanese-garden-at-minimalist-and-nature-inspired.md) |
-| :framed_picture: | Auburn Male, Mature Distinguished, - Pho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-male-mature-distinguished-photo-studio-with-clean-professional-with-a-hint-of-rugged.md) |
-| :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-1.md) |
-| :framed_picture: | Golden Blonde Female, Early - Indoor Gym... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-early-indoor-gym-with-glamorous-yet-relaxed.md) |
-| :framed_picture: | Strawberry Blonde Female, Mid - A Cozy W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-mid-a-cozy-wine-clean-professional-look-with-a-touch-of-gothic-rom.md) |
-| :framed_picture: | Black Male, Mid 20s, - A Dimly Lit - Ele... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-male-mid-20s-a-dimly-lit-elegant-refined-with-a-touch-of-rugged-toughness.md) |
-| :framed_picture: | Honey Blonde Latina Woman, - Industrial ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-latina-woman-industrial-loft-style-grunge-aesthetic-with-a-touch-of-modern-casual.md) |
-| :framed_picture: | Black-haired Male, Late 20s, - An Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-haired-male-late-20s-an-industrial-loft-modern-contemporary-with-a-rugged-touch.md) |
-| :framed_picture: | Platinum Male, 18-20 Years - A Modern Lu... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-male-18-20-years-a-modern-luxury-vintage-classic-with-a-modern-twist.md) |
-| :framed_picture: | Brunette Young Woman, Early - Contempora... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-young-woman-early-contemporary-designed-hotel-vaporwave-retro-digital.md) |
-| :framed_picture: | Salt And Pepper Male, - Urban City At - ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-male-urban-city-at-urban-street-with-a-touch-of-elegance.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 14:00:16 UTC*
+*Last updated: 2026-01-12 14:05:16 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
