@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-82+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-92+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (82)
+## :camera: AI Prompts (92)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Bishoujo And Bishounen Embodying - Fanta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-and-bishounen-embodying-fantasy-setting-like-shojo-manga-style-with-ufotable-detaile.md) |
+| :framed_picture: | Confident Woman in Industrial Restaurant... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-in-industrial-restaurant-at-sunset.md) |
+| :framed_picture: | Elegant Nighttime Selfie in Luxury Car | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-nighttime-selfie-in-luxury-car.md) |
+| :framed_picture: | Locker Room With A Dark Moody Atmosphere... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/locker-room-with-a-dark-moody-atmosphere-dirty-blonde-male-late-20s-bodybuilder.md) |
+| :framed_picture: | Quiet Dandere Type - Fantasy Castle Or -... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-type-fantasy-castle-or-90s-anime-aesthetic.md) |
+| :framed_picture: | Handsome Anime Boy And - School Swimming... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-and-school-swimming-pool-isekai-fantasy-anime-ufotable-detailed-animatio.md) |
+| :framed_picture: | Ikemen (handsome Man) - Japanese Garden,... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-japanese-garden-mystical-josei-manga-aesthetic-mappa-modern-anime-style.md) |
+| :framed_picture: | Yandere Expression - School Library, Arc... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/yandere-expression-school-library-arcade-modern-anime-style-slice-of-life-anime.md) |
+| :framed_picture: | Bishoujo (beautiful Girl) - Japanese Gar... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-japanese-garden-during-90s-anime-aesthetic-with-ufotable-detailed-a.md) |
+| :framed_picture: | Salt And Pepper Hair - Urban City Enviro... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-hair-urban-city-environment-modern-contemporary.md) |
 | :framed_picture: | Ikemen (handsome Man) And - Mystical For... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-and-mystical-forest-school-clamp-elegant-art-style.md) |
 | :framed_picture: | Blue-haired Female, Early 20s, - A Luxur... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-a-luxurious-fine-clean-and-glamorous.md) |
 | :framed_picture: | Cool Beauty Type With - School Rooftop D... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-with-school-rooftop-during-slice-of-life-anime-with-ufotable-detailed-animat.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Cozy Vintage Hotel Room Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-vintage-hotel-room-portrait.md) |
 | :framed_picture: | Bishounen (beautiful Boy), Ikemen - Japa... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-ikemen-japanese-garden-with-modern-anime-style-shojo-manga-style.md) |
 | :framed_picture: | Brunette Female, 18-20 Years - A Cozy Co... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-18-20-years-a-cozy-coffee-cottagecore-with-a-modern-twist.md) |
-| :framed_picture: | Charming Ice Cream Shop Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/charming-ice-cream-shop-portrait.md) |
-| :framed_picture: | Auburn-haired Female, Mid 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-mid-30s-indoor-sauna-with-glamorous-and-cozy.md) |
-| :framed_picture: | Red-haired Latina Woman In - Lavender Fi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-in-lavender-field-during-high-fashion-editorial-with-a-natural-setting.md) |
-| :framed_picture: | A Cozy  Sunlit Living Room Scene Featuri... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-cozy-sunlit-living-room-scene-featuring-a-young-woman-sitting-on-a-plush-beige-sofa-with-soft.md) |
-| :framed_picture: | Tsundere Personality - Cherry Blossom Tr... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tsundere-personality-cherry-blossom-trees-slice-of-life-anime-with-a-wit-studio-dynamic-style.md) |
-| :framed_picture: | UGC AI Generated Content | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ugc-ai-generated-content.md) |
-| :framed_picture: | Purple-haired Young Woman, Early - Cozy ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-young-woman-early-cozy-warm-atmosphere-soft-natural-lighting-with-a-y2k-aesthetic.md) |
-| :framed_picture: | Elegant Fine Dining in a Private Jet | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-fine-dining-in-a-private-jet.md) |
-| :framed_picture: | Honey Blonde Mixed Woman, - An Upscale F... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-mixed-woman-an-upscale-fine-y2k-aesthetic-with-a-modern-twist.md) |
-| :framed_picture: | Red Male, Mid 20s, - Street At Midnight ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-male-mid-20s-street-at-midnight-film-noir-style-with-a-cinematic-dramatic-feel.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:00:29 UTC*
+*Last updated: 2026-01-12 13:05:15 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
