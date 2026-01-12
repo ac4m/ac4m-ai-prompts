@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-72+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-82+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (72)
+## :camera: AI Prompts (82)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Ikemen (handsome Man) And - Mystical For... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-and-mystical-forest-school-clamp-elegant-art-style.md) |
+| :framed_picture: | Blue-haired Female, Early 20s, - A Luxur... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-a-luxurious-fine-clean-and-glamorous.md) |
+| :framed_picture: | Cool Beauty Type With - School Rooftop D... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-with-school-rooftop-during-slice-of-life-anime-with-ufotable-detailed-animat.md) |
+| :framed_picture: | Grey-haired Male, Mid 30s, - Boxing Gym ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-haired-male-mid-30s-boxing-gym-with-vintage-classic-with-a-cinematic-flair.md) |
+| :framed_picture: | Handsome Anime Boy - Locker Room With - ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-locker-room-with-shojo-manga-style-ufotable-detailed-animation-style.md) |
+| :framed_picture: | Tsundere Personality - School Library, T... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tsundere-personality-school-library-tokyo-shonen-anime-style-studio-ghibli-inspired.md) |
+| :framed_picture: | Light Brown Hair Male, - Penthouse Suite... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-penthouse-suite-with-dark-modern-aesthetic.md) |
+| :framed_picture: | Yandere Teenage Character - Sunny Beach ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/yandere-teenage-character-sunny-beach-seaside-kyoto-animation-soft-style-clamp-elegant-art-s.md) |
+| :framed_picture: | Auburn Middle Eastern Male - Modern Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-middle-eastern-male-modern-rooftop-with-modern-contemporary-with-a-rustic-twist.md) |
+| :framed_picture: | Handsome Anime Boy, Ikemen - School Hall... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-ikemen-school-hallway-corridor-shojo-manga-style.md) |
 | :framed_picture: | Ikemen (handsome Man), Cool - Cherry Blo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-cool-cherry-blossom-trees-isekai-fantasy-anime.md) |
 | :framed_picture: | Bishounen (beautiful Boy) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-school-rooftop-or-clamp-elegant-art-style.md) |
 | :framed_picture: | Cool Beauty Type And - Tokyo Neon Street... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-and-tokyo-neon-street-chibi-cute-style.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Elegant Fine Dining in a Private Jet | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-fine-dining-in-a-private-jet.md) |
 | :framed_picture: | Honey Blonde Mixed Woman, - An Upscale F... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-mixed-woman-an-upscale-fine-y2k-aesthetic-with-a-modern-twist.md) |
 | :framed_picture: | Red Male, Mid 20s, - Street At Midnight ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-male-mid-20s-street-at-midnight-film-noir-style-with-a-cinematic-dramatic-feel.md) |
-| :framed_picture: | Light Brown Hair Female, - An Upscale Wi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-an-upscale-wine-high-fashion-editorial-with-a-tropical-twist.md) |
-| :framed_picture: | Heroic Man by the Rainy Lake | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/heroic-man-by-the-rainy-lake.md) |
-| :framed_picture: | Playful Gym Moment with a Middle Eastern... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-gym-moment-with-a-middle-eastern-woman.md) |
-| :framed_picture: | Modern Bedroom Portrait of a Latina Girl | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/modern-bedroom-portrait-of-a-latina-girl.md) |
-| :framed_picture: | Golden Blonde Female, Early - Wine Bar W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-early-wine-bar-with-modern-vintage.md) |
-| :framed_picture: | Vibrant Gym Portrait in Morning Light | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/vibrant-gym-portrait-in-morning-light.md) |
-| :framed_picture: | Honey Blonde Female, 18-20 - A Cozy Loun... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-18-20-a-cozy-lounge-modern-contemporary-with-warm-undertones.md) |
-| :framed_picture: | Honey Blonde Female, Early - A Misty Sum... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-early-a-misty-summer-dark-academia-with-bohemian-touches.md) |
-| :framed_picture: | Red-haired Latina Woman, Mid - A Vibrant... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-mid-a-vibrant-rooftop-bold-striking-with-a-gothic-dark-romantic-twist.md) |
-| :framed_picture: | Honey Blonde Female, Age - A Vibrant Sun... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-age-a-vibrant-sunflower-a-blend-of-bohemian-and-classic-styles.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:55:15 UTC*
+*Last updated: 2026-01-12 13:00:29 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
