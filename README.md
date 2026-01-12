@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-122+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-132+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (122)
+## :camera: AI Prompts (132)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Bishoujo (beautiful Girl) With - Cherry ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-with-cherry-blossom-trees-isekai-fantasy-anime-clamp-elegant-art-s.md) |
+| :framed_picture: | Cool Beauty Type - Tokyo Neon Street - S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-tokyo-neon-street-seinen-anime-style-with-studio-trigger-dynamic-elements.md) |
+| :framed_picture: | Quiet Dandere Character With - Shibuya C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-character-with-shibuya-crossing-in-shonen-anime-style-with-slice-of-life-influe.md) |
+| :framed_picture: | Athletic Beauty in Vintage Gym | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/athletic-beauty-in-vintage-gym.md) |
+| :framed_picture: | Bishoujo (beautiful Girl), Cute - School... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-cute-school-rooftop-tokyo-ufotable-detailed-animation-style.md) |
+| :framed_picture: | Bishoujo (beautiful Girl) And - School C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-and-school-classroom-cute-studio-ghibli-inspired.md) |
+| :framed_picture: | Ikemen (handsome Man) - Japanese Garden ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-japanese-garden-with-seinen-anime-style.md) |
+| :framed_picture: | Bishounen (beautiful Boy) And - Cherry B... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-and-cherry-blossom-trees-chibi-cute-style.md) |
+| :framed_picture: | Adult Anime Character, Ageless - Varied ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/adult-anime-character-ageless-varied-backgrounds-including-mappa-modern-anime-style-wit-stu.md) |
+| :framed_picture: | Chic Urban Cafe Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/chic-urban-cafe-portrait.md) |
 | :framed_picture: | Bohemian Bathroom Bliss | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bohemian-bathroom-bliss.md) |
 | :framed_picture: | Purple-haired Latina Woman, 20 - A Cozy ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-latina-woman-20-a-cozy-coffee-grunge-aesthetic-with-a-modern-twist.md) |
 | :framed_picture: | Platinum Blonde Female, Mid - Tropical I... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-tropical-island-pier-clean-professional-look-with-a-hint-of-glamour.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Yandere Expression - School Library, Arc... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/yandere-expression-school-library-arcade-modern-anime-style-slice-of-life-anime.md) |
 | :framed_picture: | Bishoujo (beautiful Girl) - Japanese Gar... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-japanese-garden-during-90s-anime-aesthetic-with-ufotable-detailed-a.md) |
 | :framed_picture: | Salt And Pepper Hair - Urban City Enviro... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-hair-urban-city-environment-modern-contemporary.md) |
-| :framed_picture: | Ikemen (handsome Man) And - Mystical For... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-and-mystical-forest-school-clamp-elegant-art-style.md) |
-| :framed_picture: | Blue-haired Female, Early 20s, - A Luxur... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-a-luxurious-fine-clean-and-glamorous.md) |
-| :framed_picture: | Cool Beauty Type With - School Rooftop D... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-with-school-rooftop-during-slice-of-life-anime-with-ufotable-detailed-animat.md) |
-| :framed_picture: | Grey-haired Male, Mid 30s, - Boxing Gym ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-haired-male-mid-30s-boxing-gym-with-vintage-classic-with-a-cinematic-flair.md) |
-| :framed_picture: | Handsome Anime Boy - Locker Room With - ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-locker-room-with-shojo-manga-style-ufotable-detailed-animation-style.md) |
-| :framed_picture: | Tsundere Personality - School Library, T... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tsundere-personality-school-library-tokyo-shonen-anime-style-studio-ghibli-inspired.md) |
-| :framed_picture: | Light Brown Hair Male, - Penthouse Suite... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-penthouse-suite-with-dark-modern-aesthetic.md) |
-| :framed_picture: | Yandere Teenage Character - Sunny Beach ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/yandere-teenage-character-sunny-beach-seaside-kyoto-animation-soft-style-clamp-elegant-art-s.md) |
-| :framed_picture: | Auburn Middle Eastern Male - Modern Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-middle-eastern-male-modern-rooftop-with-modern-contemporary-with-a-rustic-twist.md) |
-| :framed_picture: | Handsome Anime Boy, Ikemen - School Hall... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-ikemen-school-hallway-corridor-shojo-manga-style.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:20:16 UTC*
+*Last updated: 2026-01-12 13:25:15 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
