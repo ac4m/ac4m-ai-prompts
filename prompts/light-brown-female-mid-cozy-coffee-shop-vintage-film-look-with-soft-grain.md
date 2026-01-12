@@ -1,0 +1,129 @@
+# Light Brown Female, Mid - Cozy Coffee Shop - Vintage Film Look With Soft Grain
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/light-brown-female-mid-cozy-coffee-shop-vintage-film-look-with-soft-grain?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/light-brown-female-mid-cozy-coffee-shop-vintage-film-look-with-soft-grain?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Light Brown Female, Mid - Cozy Coffee Shop - Vintage Film Look With Soft Grain](https://ac4m.com/uploads/light-brown-female-mid-cozy-coffee-shop-vintage-fi_695c158b311ce.webp)
+
+## Description
+
+Light Brown female, mid 20s, athletic body type, wearing fitted silk slip dress, jumping playfully as if caught mid-laughter, at inside a vintage coffee shop, with a uplifting and cheerful atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "cozy coffee shop with vintage retro decor, warm ambiance, dusk lighting",
+    "subject": {
+        "character": "Light Brown female, mid 20s, athletic body type",
+        "face": {
+            "structure": "heart shaped face with soft features",
+            "skin": "medium tone with clear healthy skin",
+            "eyes": {
+                "shape": "downturned outer corners",
+                "color": "hazel",
+                "expression": "innocent gaze"
+            },
+            "mouth": {
+                "lips": "heart shaped, mauve and glossy, slightly parted"
+            }
+        },
+        "hair": {
+            "color": "light brown",
+            "state": "medium length",
+            "texture": "thick",
+            "style": "ponytail with side part",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "natural texture with small pores",
+            "details": "no blemishes, healthy glow"
+        }
+    },
+    "pose": {
+        "overall": "jumping playfully as if caught mid-laughter",
+        "position": {
+            "base": "standing",
+            "orientation": "facing slightly left"
+        },
+        "torso": {
+            "direction": "slight turn to the left",
+            "curve": "natural body curve accentuated"
+        },
+        "arms": {
+            "position": "one hand on cheek, the other slightly raised"
+        },
+        "head": {
+            "turn": "tilted slightly right",
+            "expression": "cheerful smile"
+        }
+    },
+    "outfit": {
+        "type": "fitted silk slip dress",
+        "color": "red",
+        "style": "elegant yet casual",
+        "fit": "regular fit that flatters body shape"
+    },
+    "environment": {
+        "location": "inside a vintage coffee shop",
+        "details": "soft lighting from vintage bulbs, cozy seating",
+        "background": "bookshelves and retro decor",
+        "props": "iced coffee in hand, small potted plant on table"
+    },
+    "lighting": {
+        "type": "ambient with warm tones",
+        "quality": {
+            "intensity": "soft",
+            "direction": "from overhead and sides"
+        },
+        "on_subject": {
+            "highlights": "on hair and dress",
+            "shadows": "soft shadows under chin and eyes"
+        }
+    },
+    "photography": {
+        "angle": "low angle giving a dynamic feel",
+        "shot": "medium close-up to capture intricate details",
+        "framing": "subject slightly off-center with coffee shop ambiance",
+        "focus": "sharp focus on subject with a soft blurred background",
+        "style": "lifestyle photography emphasizing candid moments"
+    },
+    "color_palette": {
+        "dominant": "warm browns and reds",
+        "accent": "gold and soft pastel colors",
+        "mood": "cozy and inviting"
+    },
+    "vibe": {
+        "energy": "playful and vibrant",
+        "mood": "uplifting and cheerful",
+        "aesthetic": "vintage film look with soft grain"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young woman with heart shaped face",
+        "POSE": "jumping while looking at mirror",
+        "OUTFIT": "fitted silk slip dress in red",
+        "SETTING": "vintage coffee shop",
+        "STYLE": "photorealistic and candid"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #brownhair #female #woman #hazeleyes #vintagefilmlookwithsoftgrain #upliftingandcheerful #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/light-brown-female-mid-cozy-coffee-shop-vintage-film-look-with-soft-grain?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
