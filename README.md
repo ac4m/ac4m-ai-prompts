@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-152+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-162+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (152)
+## :camera: AI Prompts (162)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Auburn Male, Mature Distinguished, - Pho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-male-mature-distinguished-photo-studio-with-clean-professional-with-a-hint-of-rugged.md) |
+| :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-1.md) |
+| :framed_picture: | Golden Blonde Female, Early - Indoor Gym... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-early-indoor-gym-with-glamorous-yet-relaxed.md) |
+| :framed_picture: | Strawberry Blonde Female, Mid - A Cozy W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-mid-a-cozy-wine-clean-professional-look-with-a-touch-of-gothic-rom.md) |
+| :framed_picture: | Black Male, Mid 20s, - A Dimly Lit - Ele... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-male-mid-20s-a-dimly-lit-elegant-refined-with-a-touch-of-rugged-toughness.md) |
+| :framed_picture: | Honey Blonde Latina Woman, - Industrial ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-latina-woman-industrial-loft-style-grunge-aesthetic-with-a-touch-of-modern-casual.md) |
+| :framed_picture: | Black-haired Male, Late 20s, - An Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-haired-male-late-20s-an-industrial-loft-modern-contemporary-with-a-rugged-touch.md) |
+| :framed_picture: | Platinum Male, 18-20 Years - A Modern Lu... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-male-18-20-years-a-modern-luxury-vintage-classic-with-a-modern-twist.md) |
+| :framed_picture: | Brunette Young Woman, Early - Contempora... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-young-woman-early-contemporary-designed-hotel-vaporwave-retro-digital.md) |
+| :framed_picture: | Salt And Pepper Male, - Urban City At - ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-male-urban-city-at-urban-street-with-a-touch-of-elegance.md) |
 | :framed_picture: | Handsome Anime Boy - Colorful Flower Fie... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-colorful-flower-field-modern-anime-style-josei-manga-aesthetic.md) |
 | :framed_picture: | Light Brown Male, 18-20 - Photo Studio W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-male-18-20-photo-studio-with-dark-moody-vintage-classic.md) |
 | :framed_picture: | Red Hair Asian Male, - A Luxurious Ranch... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-hair-asian-male-a-luxurious-ranch-modern-contemporary-with-a-touch-of-classic-charm.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Beautiful Anime Girl With - A Magical En... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-a-magical-enchanted-modern-anime-style-with-steampunk-influences.md) |
 | :framed_picture: | Energetic Genki Girl With - Set In A - C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-genki-girl-with-set-in-a-chibi-cute-style-influenced-by-makoto-shinkai.md) |
 | :framed_picture: | Bishounen (beautiful Boy) - Japanese Gar... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-japanese-garden-at-isekai-fantasy-anime.md) |
-| :framed_picture: | Joyful Rooftop Selfie at Sunset | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/joyful-rooftop-selfie-at-sunset.md) |
-| :framed_picture: | Dark Brown Haired Latino - An Indoor Lib... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-haired-latino-an-indoor-library-rustic-elegance-combined-with-a-touch-of-modern-style.md) |
-| :framed_picture: | Cozy Urban Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-urban-bedroom-portrait.md) |
-| :framed_picture: | Asian Male, Mid 20s, - Dark Alley At - G... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/asian-male-mid-20s-dark-alley-at-gritty-raw-with-a-vintage-classic-feel.md) |
-| :framed_picture: | Cozy Halloween Closet Selfie | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-halloween-closet-selfie.md) |
-| :framed_picture: | Caucasian Male, 18-20 Years - Indoor Gym... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/caucasian-male-18-20-years-indoor-gym-with-gritty-raw-aesthetic.md) |
-| :framed_picture: | Tropical Resort Elegance | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tropical-resort-elegance.md) |
-| :framed_picture: | Confident Woman at Stylish Bar | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-at-stylish-bar.md) |
-| :framed_picture: | Ikemen (handsome Man) - Mystical Forest ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-mystical-forest-or-shonen-anime-style-isekai-fantasy-anime.md) |
-| :framed_picture: | Elegant Night Out at the Nightclub | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-night-out-at-the-nightclub.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:35:15 UTC*
+*Last updated: 2026-01-12 13:40:18 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
