@@ -1,0 +1,129 @@
+# Light Brown-haired Female, Mid - Rooftop Bar With - Modern And Urban Chic
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/light-brown-haired-female-mid-rooftop-bar-with-modern-and-urban-chic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/light-brown-haired-female-mid-rooftop-bar-with-modern-and-urban-chic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Light Brown-haired Female, Mid - Rooftop Bar With - Modern And Urban Chic](https://ac4m.com/uploads/light-brown-haired-female-mid-rooftop-bar-with-mod_695e4ed5b78a5.webp)
+
+## Description
+
+Light Brown-haired female, mid 30s, curvy body type, wearing satin tank top and denim shorts, jumping in joy with a phone in hand, at rooftop bar overlooking the city, with a joyful and relaxed atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Rooftop Bar with a scenic city view, late morning with misty atmosphere",
+    "subject": {
+        "character": "Light Brown-haired female, mid 30s, curvy body type",
+        "face": {
+            "structure": "round face shape with soft features",
+            "skin": "tan skin tone with natural texture visible",
+            "eyes": {
+                "shape": "round natural eyes",
+                "color": "brown",
+                "expression": "direct gaze with a playful smile"
+            },
+            "mouth": {
+                "lips": "bow shaped, natural pink color with a pout"
+            }
+        },
+        "hair": {
+            "color": "light brown",
+            "state": "long and wavy",
+            "texture": "soft waves",
+            "style": "side part",
+            "shine": "subtle shine"
+        },
+        "skin_state": {
+            "texture": "smooth with some natural imperfections",
+            "details": "light freckles across the nose"
+        }
+    },
+    "pose": {
+        "overall": "jumping in joy with a phone in hand",
+        "position": {
+            "base": "standing",
+            "orientation": "facing slightly towards the camera"
+        },
+        "torso": {
+            "direction": "torso angled slightly to the right",
+            "curve": "subtle curve to the hips"
+        },
+        "arms": {
+            "position": "one arm lifted holding the phone, the other relaxed"
+        },
+        "head": {
+            "turn": "head slightly tilted up",
+            "expression": "genuine laughter with bright eyes"
+        }
+    },
+    "outfit": {
+        "type": "satin tank top and denim shorts",
+        "color": "blue",
+        "style": "casual chic",
+        "fit": "tight fitting top with regular fit shorts"
+    },
+    "environment": {
+        "location": "rooftop bar overlooking the city",
+        "details": "modern decor with green plants around",
+        "background": "blurred city skyline with soft fog",
+        "props": "smoothie in one hand and a small table with decorative flowers"
+    },
+    "lighting": {
+        "type": "LED colored lighting with diffused effects",
+        "quality": {
+            "intensity": "soft and bright",
+            "direction": "from the side highlighting the subject"
+        },
+        "on_subject": {
+            "highlights": "accent on the hair and shoulders",
+            "shadows": "soft shadows on the face"
+        }
+    },
+    "photography": {
+        "angle": "high angle capturing the rooftop view",
+        "shot": "medium full shot",
+        "framing": "subject centered with a slight crop of the skyline",
+        "focus": "sharp focus on the subject with a soft background blur",
+        "style": "candid photography style"
+    },
+    "color_palette": {
+        "dominant": "blue and green hues",
+        "accent": "soft pastels",
+        "mood": "bright and cheerful"
+    },
+    "vibe": {
+        "energy": "playful and lively",
+        "mood": "joyful and relaxed",
+        "aesthetic": "modern and urban chic"
+    },
+    "critical_requirements": {
+        "SUBJECT": "female with specific features and characteristics",
+        "POSE": "dynamic jumping pose with action",
+        "OUTFIT": "casual yet stylish outfit",
+        "SETTING": "urban rooftop with a scenic view",
+        "STYLE": "photorealistic UGC style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #female #woman #tanskin #browneyes #modernandurbanchic #joyfulandrelaxed #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/light-brown-haired-female-mid-rooftop-bar-with-modern-and-urban-chic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
