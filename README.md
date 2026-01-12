@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-92+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-102+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (92)
+## :camera: AI Prompts (102)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Salt And Pepper Male, - An Outdoor Water... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-male-an-outdoor-waterfall-authentic-and-raw.md) |
+| :framed_picture: | Beautiful Anime Girl With - Serene Lake ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-serene-lake-during-clamp-elegant-art-style.md) |
+| :framed_picture: | Cute Kawaii Girl, Quiet - Tokyo Neon Str... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-quiet-tokyo-neon-street-studio-trigger-dynamic-style.md) |
+| :framed_picture: | Confident Woman at Urban Gas Station | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-at-urban-gas-station.md) |
+| :framed_picture: | Cute Kawaii Girl, Cool - School Rooftop,... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-cool-school-rooftop-school-josei-manga-aesthetic.md) |
+| :framed_picture: | Playful Asian Girl in Modern Office | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-asian-girl-in-modern-office.md) |
+| :framed_picture: | Seductive Sunset Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/seductive-sunset-bedroom-portrait.md) |
+| :framed_picture: | Elegant Middle Eastern Woman in Urban Ba... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-middle-eastern-woman-in-urban-bathroom.md) |
+| :framed_picture: | Mysterious Latina Girl on Industrial Bea... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mysterious-latina-girl-on-industrial-beach.md) |
+| :framed_picture: | Vibrant Middle Eastern Woman in Vintage ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/vibrant-middle-eastern-woman-in-vintage-gym.md) |
 | :framed_picture: | Bishoujo And Bishounen Embodying - Fanta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-and-bishounen-embodying-fantasy-setting-like-shojo-manga-style-with-ufotable-detaile.md) |
 | :framed_picture: | Confident Woman in Industrial Restaurant... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-in-industrial-restaurant-at-sunset.md) |
 | :framed_picture: | Elegant Nighttime Selfie in Luxury Car | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-nighttime-selfie-in-luxury-car.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Cute Kawaii Girl With - School Swimming ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-with-school-swimming-pool-90s-anime-aesthetic-with-shonen-influences.md) |
 | :framed_picture: | Light Brown Haired Female, - Ancient Rui... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-haired-female-ancient-ruins-surrounded-y2k-aesthetic-with-a-modern-twist.md) |
 | :framed_picture: | Black Hair Female, Early - Shopping Mall... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-hair-female-early-shopping-mall-with-gothic-dark-romantic-with-modern-elements.md) |
-| :framed_picture: | Strawberry Blonde Female, Mid - Indoor S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-mid-indoor-spa-with-modern-contemporary-with-a-touch-of-nature.md) |
-| :framed_picture: | Bishounen (beautiful Boy), Energetic - S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-energetic-school-hallway-corridor-chibi-cute-style-ufotable-deta.md) |
-| :framed_picture: | Beautiful Anime Girl And - School Swimmi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-and-school-swimming-pool-steampunk-anime-style-with-ufotable-detailed-a.md) |
-| :framed_picture: | Beautiful Anime Girl - School Entrance G... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-school-entrance-gate-seinen-anime-style.md) |
-| :framed_picture: | Ikemen (handsome Man) With - Mystical Sh... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-with-mystical-shrine-torii-makoto-shinkai-style-and-studio-trigger-dyna.md) |
-| :framed_picture: | Beautiful Anime Girl, Energetic - School... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-energetic-school-gymnasium-school-ufotable-detailed-animation-style-i.md) |
-| :framed_picture: | Elegant Poker Room Stance | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-poker-room-stance.md) |
-| :framed_picture: | Cozy Vintage Hotel Room Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-vintage-hotel-room-portrait.md) |
-| :framed_picture: | Bishounen (beautiful Boy), Ikemen - Japa... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-ikemen-japanese-garden-with-modern-anime-style-shojo-manga-style.md) |
-| :framed_picture: | Brunette Female, 18-20 Years - A Cozy Co... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-18-20-years-a-cozy-coffee-cottagecore-with-a-modern-twist.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:05:15 UTC*
+*Last updated: 2026-01-12 13:10:16 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
