@@ -1,0 +1,129 @@
+# Blue-haired Female, Early 20s, - A Luxurious Fine - Clean And Glamorous
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/blue-haired-female-early-20s-a-luxurious-fine-clean-and-glamorous?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/blue-haired-female-early-20s-a-luxurious-fine-clean-and-glamorous?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Blue-haired Female, Early 20s, - A Luxurious Fine - Clean And Glamorous](https://ac4m.com/uploads/blue-haired-female-early-20s-a-luxurious-fine-clea_695caf0f0c361.webp)
+
+## Description
+
+Blue-haired female, early 20s, petite build, wearing oversized tank top and mini skirt, sitting with one leg bent, at fine dining restaurant, with a confident and playful atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A luxurious fine dining restaurant with elegant decor, soft candlelight illuminating the tables, creating a warm and inviting atmosphere at dusk.",
+    "subject": {
+        "character": "Blue-haired female, early 20s, petite build",
+        "face": {
+            "structure": "diamond face shape with mature elegant features",
+            "skin": "medium olive tone, dewy fresh skin",
+            "eyes": {
+                "shape": "round natural eyes",
+                "color": "grey",
+                "expression": "direct gaze"
+            },
+            "mouth": {
+                "lips": "full, natural pink lips with a smirk"
+            }
+        },
+        "hair": {
+            "color": "blue",
+            "state": "very long and wavy",
+            "texture": "fine",
+            "style": "messy bun",
+            "shine": "healthy shine"
+        },
+        "skin_state": {
+            "texture": "smooth with natural pores",
+            "details": "no visible blemishes"
+        }
+    },
+    "pose": {
+        "overall": "sitting with one leg bent",
+        "position": {
+            "base": "sitting",
+            "orientation": "facing slightly to the left"
+        },
+        "torso": {
+            "direction": "torso angled slightly towards camera",
+            "curve": "S-curve body posture"
+        },
+        "arms": {
+            "position": "one arm touching face, the other resting on the table"
+        },
+        "head": {
+            "turn": "tilted right",
+            "expression": "playful and confident"
+        }
+    },
+    "outfit": {
+        "type": "oversized tank top and mini skirt",
+        "color": "pink leather",
+        "style": "edgy yet classy",
+        "fit": "loose and comfortable"
+    },
+    "environment": {
+        "location": "fine dining restaurant",
+        "details": "soft ambient lighting with elegantly set tables",
+        "background": "blurred out guests enjoying their meals",
+        "props": "champagne glass and a designer handbag on the table"
+    },
+    "lighting": {
+        "type": "spotlight",
+        "quality": {
+            "intensity": "warm and inviting",
+            "direction": "coming from above"
+        },
+        "on_subject": {
+            "highlights": "soft highlights on the cheekbones",
+            "shadows": "subtle shadows under the chin and hair"
+        }
+    },
+    "photography": {
+        "angle": "high angle shot to capture the table setting",
+        "shot": "medium close-up",
+        "framing": "focused on the subject with blurred background",
+        "focus": "sharp focus on the subject's face",
+        "style": "editorial"
+    },
+    "color_palette": {
+        "dominant": "warm golds and soft pinks",
+        "accent": "dark blue and white accents",
+        "mood": "romantic and sophisticated"
+    },
+    "vibe": {
+        "energy": "elegant and inviting",
+        "mood": "confident and playful",
+        "aesthetic": "clean and glamorous"
+    },
+    "critical_requirements": {
+        "SUBJECT": "must look like a real human with natural features",
+        "POSE": "engaging and dynamic pose with a confident expression",
+        "OUTFIT": "stylish yet casual clothing appropriate for a fine dining setting",
+        "SETTING": "must be a recognizable fine dining environment",
+        "STYLE": "photorealistic with a focus on authenticity and detail"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #female #woman #oliveskin #greyeyes #restaurant #cleanandglamorous #confidentandplayful #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/blue-haired-female-early-20s-a-luxurious-fine-clean-and-glamorous?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
