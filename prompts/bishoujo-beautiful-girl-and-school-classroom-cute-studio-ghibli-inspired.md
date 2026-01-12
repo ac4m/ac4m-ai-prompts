@@ -1,0 +1,92 @@
+# Bishoujo (beautiful Girl) And - School Classroom, Cute - Studio Ghibli Inspired
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/bishoujo-beautiful-girl-and-school-classroom-cute-studio-ghibli-inspired?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/bishoujo-beautiful-girl-and-school-classroom-cute-studio-ghibli-inspired?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Bishoujo (beautiful Girl) And - School Classroom, Cute - Studio Ghibli Inspired](https://ac4m.com/uploads/bishoujo-beautiful-girl-and-school-classroom-cute-_695c258c2b1ad.webp)
+
+## Description
+
+bishoujo (beautiful girl) and bishounen (beautiful boy), in Studio Ghibli inspired, wearing blazer school uniform, school swimsuit, formal furisode, witch outfit with hat, sporty athletic wear, maid outfit uniform, cocktail party dress, white wedding dress, cute bikini swimsuit, futuristic bodysuit, mecha pilot suit, in school classroom, cute cafe interior, arcade game center, snowy winter scene, outer space cosmos, mystical shrine torii, bathroom mirror, concert stage spotlight, with romantic dreamy mood or energetic dynamic atmosphere.
+
+## Prompt
+
+```
+{
+    "art_style": {
+        "base": "Studio Ghibli inspired",
+        "rendering": "flat color style, painterly anime style",
+        "studio_influence": "Studio Ghibli"
+    },
+    "character": {
+        "type": "bishoujo (beautiful girl) and bishounen (beautiful boy)",
+        "appearance": "teenage anime character with a petite small frame",
+        "expression": "serious focused expression"
+    },
+    "hair": {
+        "color": "silver white hair and crimson red hair",
+        "style": "braided hair, hair covering one eye",
+        "details": "decorative hairpin, flower hair ornament"
+    },
+    "eyes": {
+        "color": "emerald green eyes and ruby red eyes",
+        "style": "big expressive anime eyes",
+        "expression": "gentle kind gaze"
+    },
+    "face": {
+        "features": "oval face shape",
+        "expression": "serious focused expression",
+        "makeup": "bold colored lips, glitter sparkle makeup"
+    },
+    "outfit": {
+        "type": "blazer school uniform, school swimsuit, formal furisode, witch outfit with hat, sporty athletic wear, maid outfit uniform, cocktail party dress, white wedding dress, cute bikini swimsuit, futuristic bodysuit, mecha pilot suit",
+        "style": "various styles from modern to fantasy",
+        "colors": "vibrant anime color palette across different outfits",
+        "accessories": "none specified"
+    },
+    "pose": {
+        "type": "heart hands gesture or arms crossed, sitting elegantly or sitting sideways, jumping mid-air, head tilted cute, cat paw pose nyaa, hand touching face",
+        "gesture": "various gestures that convey different moods",
+        "orientation": "dynamic and static poses"
+    },
+    "scene": {
+        "location": "school classroom, cute cafe interior, arcade game center, snowy winter scene, outer space cosmos, mystical shrine torii, bathroom mirror, concert stage spotlight",
+        "atmosphere": "varied atmospheres from cozy to fantastical",
+        "elements": "elements suitable for each location and mood"
+    },
+    "lighting": {
+        "type": "soft sunrise light, blue moonlight, ring light catchlights, fairy lights bokeh",
+        "effects": "sparkle glitter effects, rainbow light prismatic"
+    },
+    "camera": {
+        "shot": "three quarter view",
+        "angle": "birds eye overhead, worms eye dramatic",
+        "focus": "beautiful bokeh circles"
+    },
+    "mood": {
+        "atmosphere": "romantic dreamy mood or energetic dynamic",
+        "aesthetic": "dark moody aesthetic"
+    },
+    "quality_tags": "trending on artstation"
+}
+```
+
+## Details
+
+- **AI Tool:** Flux.2
+- **Type:** AI Generated Image
+- **Tags:** #studioghibliinspired #silverwhitehairandcrimsonredhairhair #emeraldgreeneyesandrubyredeyeseyes #schoolclassroom #cutecafeinterior #arcadegamecenter #snowywinterscene #outerspacecosmos #mysticalshrinetorii #bathroommirror #concertstagespotlight #blazerschooluniform #schoolswimsuit #formalfurisode #witchoutfitwithhat #sportyathleticwear #maidoutfituniform #cocktailpartydress #whiteweddingdress #cutebikiniswimsuit #futuristicbodysuit #mechapilotsuit #darkmoodyaesthetic #anime #animeart #aigenerated #animeillustration #mangastyle
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/bishoujo-beautiful-girl-and-school-classroom-cute-studio-ghibli-inspired?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
