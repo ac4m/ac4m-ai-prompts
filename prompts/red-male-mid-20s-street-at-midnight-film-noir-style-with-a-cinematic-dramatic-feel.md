@@ -1,0 +1,129 @@
+# Red Male, Mid 20s, - Street At Midnight - Film Noir Style With A Cinematic Dramatic Feel
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/red-male-mid-20s-street-at-midnight-film-noir-style-with-a-cinematic-dramatic-feel?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/red-male-mid-20s-street-at-midnight-film-noir-style-with-a-cinematic-dramatic-feel?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Red Male, Mid 20s, - Street At Midnight - Film Noir Style With A Cinematic Dramatic Feel](https://ac4m.com/uploads/red-male-mid-20s-street-at-midnight-film-noir-styl_695bbd2ea411b.webp)
+
+## Description
+
+Red male, mid 20s, very tall athletic build, wearing casual sweater and overcoat, leaning against the wall with a relaxed casual stance, at urban street setting, with a refined and contemplative atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Street at midnight during a rainy and windy night with a minimalist clean aesthetic",
+    "subject": {
+        "character": "Red male, mid 20s, very tall athletic build",
+        "face": {
+            "structure": "square strong jawline",
+            "skin": "tan weathered rugged",
+            "eyes": {
+                "shape": "deep set eyes",
+                "color": "brown",
+                "expression": "focused"
+            },
+            "mouth": {
+                "lips": "neutral expression"
+            }
+        },
+        "hair": {
+            "color": "red",
+            "state": "well-groomed",
+            "texture": "curly",
+            "style": "slicked back",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "natural texture with pores",
+            "details": "light imperfections"
+        }
+    },
+    "pose": {
+        "overall": "leaning against the wall with a relaxed casual stance",
+        "position": {
+            "base": "standing",
+            "orientation": "body facing camera"
+        },
+        "torso": {
+            "direction": "slightly angled",
+            "curve": "natural body curve"
+        },
+        "arms": {
+            "position": "hands behind head"
+        },
+        "head": {
+            "turn": "slightly tilted to the side",
+            "expression": "confident facial expression"
+        }
+    },
+    "outfit": {
+        "type": "casual sweater and overcoat",
+        "color": "dark colors with accents of red",
+        "style": "modern casual with vintage retro touches",
+        "fit": "comfortable yet fitted"
+    },
+    "environment": {
+        "location": "urban street setting",
+        "details": "wet pavement reflecting city lights",
+        "background": "cityscape with light rain",
+        "props": "street lamp casting a warm glow"
+    },
+    "lighting": {
+        "type": "cinematic lighting",
+        "quality": {
+            "intensity": "moody",
+            "direction": "front lit with slight under lighting"
+        },
+        "on_subject": {
+            "highlights": "focusing on face and upper body",
+            "shadows": "soft shadows on the side of the face"
+        }
+    },
+    "photography": {
+        "angle": "worm's eye view",
+        "shot": "cowboy shot",
+        "framing": "balanced with half body visible",
+        "focus": "sharp focus on subject with a bokeh background",
+        "style": "editorial fashion"
+    },
+    "color_palette": {
+        "dominant": "dark blue and gray tones",
+        "accent": "red",
+        "mood": "dramatic and sophisticated"
+    },
+    "vibe": {
+        "energy": "cool and confident",
+        "mood": "refined and contemplative",
+        "aesthetic": "film noir style with a cinematic dramatic feel"
+    },
+    "critical_requirements": {
+        "SUBJECT": "must capture the essence of a young man with a rugged look",
+        "POSE": "require a relaxed yet confident pose",
+        "OUTFIT": "outfit must reflect a modern casual style with vintage influences",
+        "SETTING": "urban street setting with the atmosphere of nighttime rain",
+        "STYLE": "photograph must embody a sophisticated and dramatic style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #male #man #tanskin #browneyes #street #filmnoirstylewithacinematicdramaticfeel #refinedandcontemplative #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/red-male-mid-20s-street-at-midnight-film-noir-style-with-a-cinematic-dramatic-feel?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
