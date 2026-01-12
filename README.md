@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-162+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-172+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (162)
+## :camera: AI Prompts (172)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Bishoujo (beautiful Girl) - School Class... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-school-classroom-or-studio-ghibli-inspired.md) |
+| :framed_picture: | Platinum Blonde Female, Mid - A Snowy Ur... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-a-snowy-urban-vintage-film-look-with-a-modern-twist.md) |
+| :framed_picture: | Dark Brown Female, Late - A Vibrant Outd... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-female-late-a-vibrant-outdoor-vintage-film-look-with-a-modern-twist.md) |
+| :framed_picture: | Bishounen (beautiful Boy) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-school-rooftop-overlooking-slice-of-life-anime-and-cyberpunk-anime.md) |
+| :framed_picture: | Dark Brown Female, Mid - Cozy Warm Atmos... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-female-mid-cozy-warm-atmosphere-warm-and-cozy.md) |
+| :framed_picture: | Golden Blonde Female, 18-20 - Sushi Bar ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-18-20-sushi-bar-with-grunge-aesthetic-with-a-modern-twist.md) |
+| :framed_picture: | Mature Elegant Character With - Colorful... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mature-elegant-character-with-colorful-flower-field-shonen-anime-style-influenced-by-wit-stu.md) |
+| :framed_picture: | Light Brown Male, Mid - Dock Harbor Duri... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-male-mid-dock-harbor-during-elegant-refined-with-a-touch-of-grunge.md) |
+| :framed_picture: | Handsome Anime Boy - Tokyo Neon Street -... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-tokyo-neon-street-shonen-anime-style-with-wit-studio-dynamic-influence.md) |
+| :framed_picture: | Brunette Female, Age 20, - Japanese Gard... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-age-20-japanese-garden-at-minimalist-and-nature-inspired.md) |
 | :framed_picture: | Auburn Male, Mature Distinguished, - Pho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-male-mature-distinguished-photo-studio-with-clean-professional-with-a-hint-of-rugged.md) |
 | :framed_picture: | Professional UGC Style Photo Of A Beauti... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/professional-ugc-style-photo-of-a-beautiful-young-woman-ultra-realistic-highly-detailed-profes-1.md) |
 | :framed_picture: | Golden Blonde Female, Early - Indoor Gym... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-early-indoor-gym-with-glamorous-yet-relaxed.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Bishounen (beautiful Boy) And - Cherry B... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-and-cherry-blossom-trees-chibi-cute-style.md) |
 | :framed_picture: | Adult Anime Character, Ageless - Varied ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/adult-anime-character-ageless-varied-backgrounds-including-mappa-modern-anime-style-wit-stu.md) |
 | :framed_picture: | Chic Urban Cafe Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/chic-urban-cafe-portrait.md) |
-| :framed_picture: | Bohemian Bathroom Bliss | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bohemian-bathroom-bliss.md) |
-| :framed_picture: | Purple-haired Latina Woman, 20 - A Cozy ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-latina-woman-20-a-cozy-coffee-grunge-aesthetic-with-a-modern-twist.md) |
-| :framed_picture: | Platinum Blonde Female, Mid - Tropical I... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-tropical-island-pier-clean-professional-look-with-a-hint-of-glamour.md) |
-| :framed_picture: | Cozy Bedroom Portrait of a Young Woman | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-bedroom-portrait-of-a-young-woman.md) |
-| :framed_picture: | Energetic Gym Portrait of a Confident Gi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-gym-portrait-of-a-confident-girl.md) |
-| :framed_picture: | Confident Young Woman in Vibrant City Sc... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-young-woman-in-vibrant-city-scene.md) |
-| :framed_picture: | Red-haired Latina Woman, 20 - A Rustic S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-20-a-rustic-spa-cottagecore-pastoral-style.md) |
-| :framed_picture: | Beautiful Anime Girl With - A Magical En... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-a-magical-enchanted-modern-anime-style-with-steampunk-influences.md) |
-| :framed_picture: | Energetic Genki Girl With - Set In A - C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-genki-girl-with-set-in-a-chibi-cute-style-influenced-by-makoto-shinkai.md) |
-| :framed_picture: | Bishounen (beautiful Boy) - Japanese Gar... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-japanese-garden-at-isekai-fantasy-anime.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:40:18 UTC*
+*Last updated: 2026-01-12 13:45:14 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
