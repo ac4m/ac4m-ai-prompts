@@ -1,0 +1,129 @@
+# Platinum Blonde Female, Early - A Vibrant And - Intimate Yet Chic
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/platinum-blonde-female-early-a-vibrant-and-intimate-yet-chic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/platinum-blonde-female-early-a-vibrant-and-intimate-yet-chic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Platinum Blonde Female, Early - A Vibrant And - Intimate Yet Chic](https://ac4m.com/uploads/platinum-blonde-female-early-a-vibrant-and-intimat_695c92419920c.webp)
+
+## Description
+
+Platinum Blonde female, early 20s, curvy body type, wearing off shoulder dress, standing confidently with a relaxed demeanor, at London street with Art Deco buildings, with a celebratory and elegant atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A vibrant and bustling London street at night, illuminated by the glow of street lamps amidst a humid, stormy atmosphere. The elegance of Art Deco architecture looms in the background.",
+    "subject": {
+        "character": "Platinum Blonde female, early 20s, curvy body type",
+        "face": {
+            "structure": "youthful natural appearance",
+            "skin": "medium olive tone with matte natural quality",
+            "eyes": {
+                "shape": "round natural eyes",
+                "color": "light blue",
+                "expression": "direct gaze"
+            },
+            "mouth": {
+                "lips": "bow shaped, parted expression"
+            }
+        },
+        "hair": {
+            "color": "platinum blonde",
+            "state": "long and fine",
+            "texture": "straight",
+            "style": "braids with curtain bangs",
+            "shine": "subtle shine"
+        },
+        "skin_state": {
+            "texture": "natural with pores visible",
+            "details": "slight freckles on cheeks"
+        }
+    },
+    "pose": {
+        "overall": "standing confidently with a relaxed demeanor",
+        "position": {
+            "base": "standing",
+            "orientation": "facing slightly to the left"
+        },
+        "torso": {
+            "direction": "slightly twisted",
+            "curve": "gentle S-curve along the body"
+        },
+        "arms": {
+            "position": "one arm on hip, the other holding a tea cup"
+        },
+        "head": {
+            "turn": "turned to the left",
+            "expression": "confident smile"
+        }
+    },
+    "outfit": {
+        "type": "off shoulder dress",
+        "color": "green with nude accents",
+        "style": "fitted, elegant, showcasing curvy figure",
+        "fit": "tailored to enhance silhouette"
+    },
+    "environment": {
+        "location": "London street with Art Deco buildings",
+        "details": "rain-dampened pavement reflecting lights",
+        "background": "street lamps illuminating the scene",
+        "props": "holding a designer handbag"
+    },
+    "lighting": {
+        "type": "natural light complemented by street lamps",
+        "quality": {
+            "intensity": "soft and diffused",
+            "direction": "mostly front with slight side light"
+        },
+        "on_subject": {
+            "highlights": "light on the face and upper body",
+            "shadows": "soft shadows enhancing curves"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "full body",
+        "framing": "capturing the subject in the context of the street environment",
+        "focus": "sharp focus on the subject with a slightly blurred background",
+        "style": "portrait style with an urban vibe"
+    },
+    "color_palette": {
+        "dominant": "greens and soft nudes",
+        "accent": "silver and gold from jewelry",
+        "mood": "warm and inviting yet sophisticated"
+    },
+    "vibe": {
+        "energy": "confident and empowered",
+        "mood": "celebratory and elegant",
+        "aesthetic": "intimate yet chic"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young woman with a curvy body type",
+        "POSE": "standing in a confident manner",
+        "OUTFIT": "off shoulder dress that emphasizes form",
+        "SETTING": "London street at night",
+        "STYLE": "Art Deco elegant"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #female #woman #oliveskin #lighteyes #street #intimateyetchic #celebratoryandelegant #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/platinum-blonde-female-early-a-vibrant-and-intimate-yet-chic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
