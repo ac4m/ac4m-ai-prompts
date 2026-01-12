@@ -1,0 +1,129 @@
+# Salt And Pepper Male, - Urban City At - Urban Street With A Touch Of Elegance
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/salt-and-pepper-male-urban-city-at-urban-street-with-a-touch-of-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/salt-and-pepper-male-urban-city-at-urban-street-with-a-touch-of-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Salt And Pepper Male, - Urban City At - Urban Street With A Touch Of Elegance](https://ac4m.com/uploads/salt-and-pepper-male-urban-city-at-urban-street-wi_695cdb1e9faae.webp)
+
+## Description
+
+Salt and Pepper male, mid 20s, short stature with a broad-shouldered build, wearing tuxedo with a windbreaker, kneeling with a dominant alpha stance, adjusting tie while looking at the camera, at urban city dock harbor, with a thoughtful yet confident atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Urban City at dawn with a stormy sky, creating a dramatic atmosphere",
+    "subject": {
+        "character": "Salt and Pepper male, mid 20s, short stature with a broad-shouldered build",
+        "face": {
+            "structure": "square strong jawline",
+            "skin": "dark, smooth and clear",
+            "eyes": {
+                "shape": "deep set",
+                "color": "ice blue",
+                "expression": "cold and calculating"
+            },
+            "mouth": {
+                "lips": "neutral, with a focused expression"
+            }
+        },
+        "hair": {
+            "color": "salt and pepper",
+            "state": "well-groomed",
+            "texture": "wavy and coily",
+            "style": "fade",
+            "shine": "subtle shine"
+        },
+        "skin_state": {
+            "texture": "natural",
+            "details": "slight imperfections, realistic pores"
+        }
+    },
+    "pose": {
+        "overall": "kneeling with a dominant alpha stance, adjusting tie while looking at the camera",
+        "position": {
+            "base": "kneeling",
+            "orientation": "frontal"
+        },
+        "torso": {
+            "direction": "straight",
+            "curve": "confident posture"
+        },
+        "arms": {
+            "position": "hands on hips, adjusting tie"
+        },
+        "head": {
+            "turn": "facing forward",
+            "expression": "serious and intense"
+        }
+    },
+    "outfit": {
+        "type": "tuxedo with a windbreaker",
+        "color": "black and white with a touch of color",
+        "style": "masculine sophisticated with a pocket square",
+        "fit": "tailored, showcasing a strong physique"
+    },
+    "environment": {
+        "location": "urban city dock harbor",
+        "details": "surrounding buildings and water reflecting the stormy sky",
+        "background": "city skyline with hints of dawn light breaking through clouds",
+        "props": "holding a wine glass"
+    },
+    "lighting": {
+        "type": "neon lights and moonlight",
+        "quality": {
+            "intensity": "soft diffused",
+            "direction": "side lit with split lighting"
+        },
+        "on_subject": {
+            "highlights": "catching on the hair and facial features",
+            "shadows": "subtle beneath the chin and side of the face"
+        }
+    },
+    "photography": {
+        "angle": "worm's eye view",
+        "shot": "medium shot",
+        "framing": "focused on the subject with urban elements in the background",
+        "focus": "sharp on the subject, blurry background",
+        "style": "candid lifestyle shot"
+    },
+    "color_palette": {
+        "dominant": "dark tones with contrasting whites",
+        "accent": "ice blue and metallic hues",
+        "mood": "high contrast and sophisticated"
+    },
+    "vibe": {
+        "energy": "intense and brooding",
+        "mood": "thoughtful yet confident",
+        "aesthetic": "urban street with a touch of elegance"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young man with a strong presence",
+        "POSE": "kneeling in a dominant pose",
+        "OUTFIT": "formal tuxedo with a casual windbreaker",
+        "SETTING": "urban city at dawn",
+        "STYLE": "masculine sophisticated"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #male #man #darkskin #iceeyes #urbanstreetwithatouchofelegance #thoughtfulyetconfident #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/salt-and-pepper-male-urban-city-at-urban-street-with-a-touch-of-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
