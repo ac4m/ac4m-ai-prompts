@@ -1,0 +1,129 @@
+# Dark Brown Hair Female, - Dressing Room With - Modern Chic With A Touch Of Elegance
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/dark-brown-hair-female-dressing-room-with-modern-chic-with-a-touch-of-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/dark-brown-hair-female-dressing-room-with-modern-chic-with-a-touch-of-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Dark Brown Hair Female, - Dressing Room With - Modern Chic With A Touch Of Elegance](https://ac4m.com/uploads/dark-brown-hair-female-dressing-room-with-modern-c_6961aa8212f15.webp)
+
+## Description
+
+Dark Brown hair female, mid 30s, athletic body type, wearing kimono robe over halter top and mini skirt, lying down with a relaxed demeanor, at fashionable dressing room, with a joyful and confident atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Dressing Room with soft, warm lighting creating an intimate atmosphere",
+    "subject": {
+        "character": "Dark Brown hair female, mid 30s, athletic body type",
+        "face": {
+            "structure": "defined angular features",
+            "skin": "light tone with matte natural quality",
+            "eyes": {
+                "shape": "small delicate eyes",
+                "color": "blue",
+                "expression": "seductive gaze"
+            },
+            "mouth": {
+                "lips": "thin, natural pink with a slight smile"
+            }
+        },
+        "hair": {
+            "color": "dark brown",
+            "state": "long and fine",
+            "texture": "smooth",
+            "style": "half up with curtain bangs",
+            "shine": "healthy shine"
+        },
+        "skin_state": {
+            "texture": "natural texture with visible pores",
+            "details": "freckles on cheeks"
+        }
+    },
+    "pose": {
+        "overall": "lying down with a relaxed demeanor",
+        "position": {
+            "base": "lying",
+            "orientation": "facing slightly upward"
+        },
+        "torso": {
+            "direction": "slightly twisted",
+            "curve": "S-curve body shape"
+        },
+        "arms": {
+            "position": "one arm touching hair, the other behind back"
+        },
+        "head": {
+            "turn": "looking up towards the camera",
+            "expression": "playful and inviting"
+        }
+    },
+    "outfit": {
+        "type": "kimono robe over halter top and mini skirt",
+        "color": "pink with green accents",
+        "style": "casual and fitted",
+        "fit": "loose but flattering"
+    },
+    "environment": {
+        "location": "fashionable dressing room",
+        "details": "mirrors reflecting soft light, elegant decor",
+        "background": "stylish clothing racks and accessories",
+        "props": "vintage makeup tools on a vanity"
+    },
+    "lighting": {
+        "type": "candlelight",
+        "quality": {
+            "intensity": "soft and warm",
+            "direction": "front and overhead"
+        },
+        "on_subject": {
+            "highlights": "on hair and cheekbones",
+            "shadows": "soft shadows under chin and around nose"
+        }
+    },
+    "photography": {
+        "angle": "high angle view",
+        "shot": "medium full shot to capture outfit and pose",
+        "framing": "centered with a focus on the subject",
+        "focus": "sharp focus on the face and upper body",
+        "style": "editorial with a candid feel"
+    },
+    "color_palette": {
+        "dominant": "soft pinks and greens",
+        "accent": "gold and white",
+        "mood": "warm and inviting"
+    },
+    "vibe": {
+        "energy": "playful and relaxed",
+        "mood": "joyful and confident",
+        "aesthetic": "modern chic with a touch of elegance"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young woman with athletic build",
+        "POSE": "relaxed lying position",
+        "OUTFIT": "stylish kimono robe with casual elements",
+        "SETTING": "fashionable dressing room with a cozy vibe",
+        "STYLE": "photorealistic and candid"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #brownhair #female #woman #blueeyes #modernchicwithatouchofelegance #joyfulandconfident #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/dark-brown-hair-female-dressing-room-with-modern-chic-with-a-touch-of-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
