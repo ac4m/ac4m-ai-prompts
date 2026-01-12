@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-102+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-112+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (102)
+## :camera: AI Prompts (112)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Joyful Rooftop Selfie at Sunset | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/joyful-rooftop-selfie-at-sunset.md) |
+| :framed_picture: | Dark Brown Haired Latino - An Indoor Lib... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-haired-latino-an-indoor-library-rustic-elegance-combined-with-a-touch-of-modern-style.md) |
+| :framed_picture: | Cozy Urban Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-urban-bedroom-portrait.md) |
+| :framed_picture: | Asian Male, Mid 20s, - Dark Alley At - G... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/asian-male-mid-20s-dark-alley-at-gritty-raw-with-a-vintage-classic-feel.md) |
+| :framed_picture: | Cozy Halloween Closet Selfie | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-halloween-closet-selfie.md) |
+| :framed_picture: | Caucasian Male, 18-20 Years - Indoor Gym... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/caucasian-male-18-20-years-indoor-gym-with-gritty-raw-aesthetic.md) |
+| :framed_picture: | Tropical Resort Elegance | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tropical-resort-elegance.md) |
+| :framed_picture: | Confident Woman at Stylish Bar | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-at-stylish-bar.md) |
+| :framed_picture: | Ikemen (handsome Man) - Mystical Forest ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-mystical-forest-or-shonen-anime-style-isekai-fantasy-anime.md) |
+| :framed_picture: | Elegant Night Out at the Nightclub | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-night-out-at-the-nightclub.md) |
 | :framed_picture: | Salt And Pepper Male, - An Outdoor Water... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-male-an-outdoor-waterfall-authentic-and-raw.md) |
 | :framed_picture: | Beautiful Anime Girl With - Serene Lake ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-serene-lake-during-clamp-elegant-art-style.md) |
 | :framed_picture: | Cute Kawaii Girl, Quiet - Tokyo Neon Str... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-quiet-tokyo-neon-street-studio-trigger-dynamic-style.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Platinum Blonde Female, Early - A Vibran... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-early-a-vibrant-and-intimate-yet-chic.md) |
 | :framed_picture: | Intimate Nighttime Car Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/intimate-nighttime-car-portrait.md) |
 | :framed_picture: | Gökdelen Manzarasında Güçlü Latina Kızı | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/gokdelen-manzarasinda-guclu-latina-kizi.md) |
-| :framed_picture: | Bishoujo (beautiful Girl) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-school-rooftop-cute-makoto-shinkai-style-ufotable-detailed-animat.md) |
-| :framed_picture: | Pink Haired Young Woman, - A Vibrant Fes... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-young-woman-a-vibrant-festival-modern-contemporary-festival-style.md) |
-| :framed_picture: | Strawberry Blonde Female, 19, - Indoor A... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-indoor-art-gallery-vintage-bohemian.md) |
-| :framed_picture: | Energetic Genki Girl - Cute Cafe Interio... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-genki-girl-cute-cafe-interior-modern-anime-style-moe-kawaii-style.md) |
-| :framed_picture: | Playful Coffee Shop Moment | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-coffee-shop-moment.md) |
-| :framed_picture: | Strawberry Blonde Female, Early - Roofto... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-early-rooftop-bar-with-clean-professional-look-with-a-touch-of-play.md) |
-| :framed_picture: | Auburn Hair Female, Late - A Cozy Rustic... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-hair-female-late-a-cozy-rustic-street-photography-style-with-a-trendy-twist.md) |
-| :framed_picture: | Cute Kawaii Girl With - School Swimming ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-with-school-swimming-pool-90s-anime-aesthetic-with-shonen-influences.md) |
-| :framed_picture: | Light Brown Haired Female, - Ancient Rui... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-haired-female-ancient-ruins-surrounded-y2k-aesthetic-with-a-modern-twist.md) |
-| :framed_picture: | Black Hair Female, Early - Shopping Mall... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-hair-female-early-shopping-mall-with-gothic-dark-romantic-with-modern-elements.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:10:16 UTC*
+*Last updated: 2026-01-12 13:15:18 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
