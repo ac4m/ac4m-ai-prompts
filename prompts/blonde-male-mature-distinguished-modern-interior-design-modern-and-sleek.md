@@ -1,0 +1,129 @@
+# Blonde Male, Mature Distinguished, - Modern Interior Design - Modern And Sleek
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/blonde-male-mature-distinguished-modern-interior-design-modern-and-sleek?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/blonde-male-mature-distinguished-modern-interior-design-modern-and-sleek?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Blonde Male, Mature Distinguished, - Modern Interior Design - Modern And Sleek](https://ac4m.com/uploads/blonde-male-mature-distinguished-modern-interior-d_695c76c9ad967.webp)
+
+## Description
+
+Blonde male, mature distinguished, average height, toned average build, wearing blazer over a tank top, walking confidently with a serious expression, at inside a luxurious casino, with a serious yet charismatic atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Modern interior design Casino with vibrant lights and an exciting atmosphere",
+    "subject": {
+        "character": "Blonde male, mature distinguished, average height, toned average build",
+        "face": {
+            "structure": "square strong jawline",
+            "skin": "light and freckled",
+            "eyes": {
+                "shape": "intense piercing eyes",
+                "color": "amber",
+                "expression": "serious and cold calculating"
+            },
+            "mouth": {
+                "lips": "well-defined with a neutral expression"
+            }
+        },
+        "hair": {
+            "color": "dirty blonde",
+            "state": "well-groomed",
+            "texture": "thick and straight",
+            "style": "windswept",
+            "shine": "healthy shine"
+        },
+        "skin_state": {
+            "texture": "natural with pores",
+            "details": "freckles across the cheeks"
+        }
+    },
+    "pose": {
+        "overall": "walking confidently with a serious expression",
+        "position": {
+            "base": "standing",
+            "orientation": "slightly turned towards the left"
+        },
+        "torso": {
+            "direction": "facing slightly forward",
+            "curve": "natural body curve"
+        },
+        "arms": {
+            "position": "arms relaxed at sides"
+        },
+        "head": {
+            "turn": "slightly turned to the left",
+            "expression": "serious gaze"
+        }
+    },
+    "outfit": {
+        "type": "blazer over a tank top",
+        "color": "black and white",
+        "style": "modern casual with hints of formal",
+        "fit": "well-fitted"
+    },
+    "environment": {
+        "location": "inside a luxurious casino",
+        "details": "vibrant neon lights and bustling atmosphere",
+        "background": "people at slot machines and a bar area",
+        "props": "poker chips and cards on nearby tables"
+    },
+    "lighting": {
+        "type": "spotlight with ambient neon lights",
+        "quality": {
+            "intensity": "bright focal point on the subject",
+            "direction": "from above and slightly in front"
+        },
+        "on_subject": {
+            "highlights": "on the face and shoulders",
+            "shadows": "soft shadows under the chin"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "medium shot capturing the subject's upper body",
+        "framing": "subject centered with background details blurred",
+        "focus": "sharp focus on the subject's face",
+        "style": "photojournalistic style"
+    },
+    "color_palette": {
+        "dominant": "black and white with neon accents",
+        "accent": "vivid red and green",
+        "mood": "luxurious and mysterious"
+    },
+    "vibe": {
+        "energy": "dynamic and engaging",
+        "mood": "serious yet charismatic",
+        "aesthetic": "modern and sleek"
+    },
+    "critical_requirements": {
+        "SUBJECT": "realistic young man with natural features",
+        "POSE": "confident walking pose",
+        "OUTFIT": "stylish modern attire suitable for a casino",
+        "SETTING": "authentic casino environment",
+        "STYLE": "photorealistic capture"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #male #man #ambereyes #modernandsleek #seriousyetcharismatic #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/blonde-male-mature-distinguished-modern-interior-design-modern-and-sleek?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
