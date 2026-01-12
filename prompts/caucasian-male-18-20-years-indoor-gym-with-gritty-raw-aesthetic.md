@@ -1,0 +1,129 @@
+# Caucasian Male, 18-20 Years - Indoor Gym With - Gritty Raw Aesthetic
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/caucasian-male-18-20-years-indoor-gym-with-gritty-raw-aesthetic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/caucasian-male-18-20-years-indoor-gym-with-gritty-raw-aesthetic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Caucasian Male, 18-20 Years - Indoor Gym With - Gritty Raw Aesthetic](https://ac4m.com/uploads/caucasian-male-18-20-years-indoor-gym-with-gritty-_695bfe9626882.webp)
+
+## Description
+
+Caucasian male, 18-20 years old, stocky build, tall stature, wearing flannel shirt with a suit jacket, sitting on a bench, stroking chin thoughtfully, at gym with rustic elements, with a determined and contemplative atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Indoor gym with rustic natural wood accents, filled with gym equipment. The atmosphere is energetic and motivating.",
+    "subject": {
+        "character": "Caucasian male, 18-20 years old, stocky build, tall stature",
+        "face": {
+            "structure": "round face shape with strong jawline",
+            "skin": "olive skin tone with freckles",
+            "eyes": {
+                "shape": "wide set eyes",
+                "color": "dark brown",
+                "expression": "confident"
+            },
+            "mouth": {
+                "lips": "medium thickness with a relaxed expression"
+            }
+        },
+        "hair": {
+            "color": "salt and pepper",
+            "state": "messy textured",
+            "texture": "curly",
+            "style": "short and tousled",
+            "shine": "slightly shiny"
+        },
+        "skin_state": {
+            "texture": "natural with visible pores",
+            "details": "freckles on cheeks"
+        }
+    },
+    "pose": {
+        "overall": "sitting on a bench, stroking chin thoughtfully",
+        "position": {
+            "base": "sitting",
+            "orientation": "facing slightly to the left"
+        },
+        "torso": {
+            "direction": "slightly leaned forward",
+            "curve": "relaxed posture"
+        },
+        "arms": {
+            "position": "one hand stroking chin, other resting on knee"
+        },
+        "head": {
+            "turn": "slightly tilted",
+            "expression": "pensive look"
+        }
+    },
+    "outfit": {
+        "type": "flannel shirt with a suit jacket",
+        "color": "dark green shirt with grey jacket",
+        "style": "casual yet put together",
+        "fit": "well-fitted but not tight"
+    },
+    "environment": {
+        "location": "gym with rustic elements",
+        "details": "wooden benches and metal weights",
+        "background": "wall mirrors and exercise equipment",
+        "props": "dumbbells placed on the floor"
+    },
+    "lighting": {
+        "type": "natural light coming from windows",
+        "quality": {
+            "intensity": "moderate",
+            "direction": "side lit"
+        },
+        "on_subject": {
+            "highlights": "light hitting the left side of the face",
+            "shadows": "subtle shadows on the right side"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "close up face",
+        "framing": "subject in the center with blurred background",
+        "focus": "sharp focus on the face, soft focus on background",
+        "style": "portrait photography"
+    },
+    "color_palette": {
+        "dominant": "earthy tones of green and brown",
+        "accent": "grey and black",
+        "mood": "warm and inviting"
+    },
+    "vibe": {
+        "energy": "intense focused energy",
+        "mood": "determined and contemplative",
+        "aesthetic": "gritty raw aesthetic"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young stocky Caucasian male with natural freckled skin",
+        "POSE": "sitting pose with thoughtful hand on chin",
+        "OUTFIT": "flannel shirt layered with a suit jacket",
+        "SETTING": "indoor rustic gym environment",
+        "STYLE": "realistic human appearance with natural details"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #male #man #oliveskin #darkeyes #gym #grittyrawaesthetic #determinedandcontemplative #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/caucasian-male-18-20-years-indoor-gym-with-gritty-raw-aesthetic?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
