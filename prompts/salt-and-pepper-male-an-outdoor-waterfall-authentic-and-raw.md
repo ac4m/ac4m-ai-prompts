@@ -1,0 +1,129 @@
+# Salt And Pepper Male, - An Outdoor Waterfall - Authentic And Raw
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/salt-and-pepper-male-an-outdoor-waterfall-authentic-and-raw?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/salt-and-pepper-male-an-outdoor-waterfall-authentic-and-raw?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Salt And Pepper Male, - An Outdoor Waterfall - Authentic And Raw](https://ac4m.com/uploads/salt-and-pepper-male-an-outdoor-waterfall-authenti_695c1152a3159.webp)
+
+## Description
+
+Salt and Pepper Male, late 30s, fit body type, average height, wearing casual urban wear, dynamic running pose, embodying energy and movement, at beside a picturesque waterfall, with a determined and focused atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "An outdoor waterfall surrounded by lush greenery, capturing the tranquility of nature during a sunny day.",
+    "subject": {
+        "character": "Salt and Pepper Male, late 30s, fit body type, average height",
+        "face": {
+            "structure": "round face shape with high cheekbones",
+            "skin": "brown, freckled skin with battle scars",
+            "eyes": {
+                "shape": "intense piercing eyes",
+                "color": "light blue",
+                "expression": "smoldering gaze"
+            },
+            "mouth": {
+                "lips": "medium thickness, neutral expression"
+            }
+        },
+        "hair": {
+            "color": "grey",
+            "state": "buzz cut",
+            "texture": "thick",
+            "style": "crew cut",
+            "shine": "natural matte finish"
+        },
+        "skin_state": {
+            "texture": "natural with pores and imperfections",
+            "details": "freckles and scars"
+        }
+    },
+    "pose": {
+        "overall": "dynamic running pose, embodying energy and movement",
+        "position": {
+            "base": "standing",
+            "orientation": "facing slightly to the left of the camera"
+        },
+        "torso": {
+            "direction": "twisted slightly forward",
+            "curve": "muscular curve visible"
+        },
+        "arms": {
+            "position": "grabbing collar of his bomber jacket"
+        },
+        "head": {
+            "turn": "slightly tilted towards the camera",
+            "expression": "focused and determined"
+        }
+    },
+    "outfit": {
+        "type": "casual urban wear",
+        "color": "dark navy and grey tones",
+        "style": "stylish bomber jacket over a button-up shirt",
+        "fit": "fitted and athletic"
+    },
+    "environment": {
+        "location": "beside a picturesque waterfall",
+        "details": "sunlight filtering through the trees",
+        "background": "lush green foliage, sparkling water",
+        "props": "holding an espresso cup in one hand"
+    },
+    "lighting": {
+        "type": "golden hour sunlight",
+        "quality": {
+            "intensity": "soft yet bright",
+            "direction": "top down, creating subtle shadows"
+        },
+        "on_subject": {
+            "highlights": "on face and shoulders",
+            "shadows": "soft shadows around the arms and torso"
+        }
+    },
+    "photography": {
+        "angle": "slightly elevated bird's eye view",
+        "shot": "full body shot to capture action",
+        "framing": "centered with waterfall in the background",
+        "focus": "sharp focus on subject, slight blur on the background",
+        "style": "candid shot, capturing a moment in time"
+    },
+    "color_palette": {
+        "dominant": "earthy greens and browns",
+        "accent": "soft blues from the water",
+        "mood": "natural and vibrant"
+    },
+    "vibe": {
+        "energy": "active and lively",
+        "mood": "determined and focused",
+        "aesthetic": "authentic and raw"
+    },
+    "critical_requirements": {
+        "SUBJECT": "a fit male in his late 30s with distinct features",
+        "POSE": "running with a dynamic action pose",
+        "OUTFIT": "stylish casual attire with a bomber jacket",
+        "SETTING": "outdoor waterfall scene",
+        "STYLE": "photorealistic with natural lighting"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #male #man #lighteyes #authenticandraw #determinedandfocused #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/salt-and-pepper-male-an-outdoor-waterfall-authentic-and-raw?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
