@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-22+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-32+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (22)
+## :camera: AI Prompts (32)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Light Brown Hair Female, - An Upscale Wi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-an-upscale-wine-high-fashion-editorial-with-a-tropical-twist.md) |
+| :framed_picture: | Heroic Man by the Rainy Lake | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/heroic-man-by-the-rainy-lake.md) |
+| :framed_picture: | Playful Gym Moment with a Middle Eastern... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-gym-moment-with-a-middle-eastern-woman.md) |
+| :framed_picture: | Modern Bedroom Portrait of a Latina Girl | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/modern-bedroom-portrait-of-a-latina-girl.md) |
+| :framed_picture: | Golden Blonde Female, Early - Wine Bar W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-early-wine-bar-with-modern-vintage.md) |
+| :framed_picture: | Vibrant Gym Portrait in Morning Light | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/vibrant-gym-portrait-in-morning-light.md) |
+| :framed_picture: | Honey Blonde Female, 18-20 - A Cozy Loun... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-18-20-a-cozy-lounge-modern-contemporary-with-warm-undertones.md) |
+| :framed_picture: | Honey Blonde Female, Early - A Misty Sum... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-early-a-misty-summer-dark-academia-with-bohemian-touches.md) |
+| :framed_picture: | Red-haired Latina Woman, Mid - A Vibrant... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-mid-a-vibrant-rooftop-bold-striking-with-a-gothic-dark-romantic-twist.md) |
+| :framed_picture: | Honey Blonde Female, Age - A Vibrant Sun... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-age-a-vibrant-sunflower-a-blend-of-bohemian-and-classic-styles.md) |
 | :framed_picture: | Black Female, Early 30s, - A Misty Outdo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-female-early-30s-a-misty-outdoor-modern-minimalist-with-a-touch-of-nature.md) |
 | :framed_picture: | Dirty Blonde Male, Mature - Stylish Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-mature-stylish-rooftop-during-editorial-high-fashion-with-urban-influences.md) |
 | :framed_picture: | Platinum Blonde Female, Mid - Indoor Sta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-indoor-staircase-in-high-fashion-editorial-with-a-glamorous-touch.md) |
@@ -120,6 +130,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:26:35 UTC*
+*Last updated: 2026-01-12 12:35:14 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
