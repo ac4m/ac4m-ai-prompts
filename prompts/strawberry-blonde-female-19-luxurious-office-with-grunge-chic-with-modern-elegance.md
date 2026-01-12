@@ -1,0 +1,127 @@
+# Strawberry Blonde Female, 19, - Luxurious Office With - Grunge Chic With Modern Elegance
+
+![Strawberry Blonde Female, 19, - Luxurious Office With - Grunge Chic With Modern Elegance](https://ac4m.com/uploads/strawberry-blonde-female-19-luxurious-office-with-_695bc7438ed41.webp)
+
+## Description
+
+Strawberry Blonde female, 19, curvy, wearing silk blouse paired with a mini skirt, kneeling, looking at a mirror, at high-end office setting with large windows, with a playful yet sophisticated atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "luxurious office with sleek modern furniture and large windows allowing soft natural light to filter through, portraying an upscale atmosphere",
+    "subject": {
+        "character": "Strawberry Blonde female, 19, curvy",
+        "face": {
+            "structure": "oval face shape with mature elegant features",
+            "skin": "dark brown skin with visible pores and a sun-kissed natural tan",
+            "eyes": {
+                "shape": "hooded eyelids",
+                "color": "amber",
+                "expression": "direct gaze with a seductive undertone"
+            },
+            "mouth": {
+                "lips": "full lips with a berry color, expressing a smirk"
+            }
+        },
+        "hair": {
+            "color": "strawberry blonde",
+            "state": "healthy and vibrant",
+            "texture": "fine",
+            "style": "down and flowing",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "natural smooth texture",
+            "details": "slight freckles on cheeks"
+        }
+    },
+    "pose": {
+        "overall": "kneeling, looking at a mirror",
+        "position": {
+            "base": "kneeling",
+            "orientation": "facing the mirror slightly off to the left"
+        },
+        "torso": {
+            "direction": "frontal towards the mirror",
+            "curve": "maintaining a gentle curve at the waist"
+        },
+        "arms": {
+            "position": "one arm resting on cheek"
+        },
+        "head": {
+            "turn": "turned slightly left, showcasing profile",
+            "expression": "confident and playful"
+        },
+        "legs": {
+            "position": "one leg raised for an elegant pose"
+        }
+    },
+    "outfit": {
+        "type": "silk blouse paired with a mini skirt",
+        "color": "pastel hues",
+        "style": "chic and trendy with a hint of grunge aesthetic",
+        "fit": "regular fit for the blouse and fitted mini skirt"
+    },
+    "environment": {
+        "location": "high-end office setting with large windows",
+        "details": "decorated with green plants and modern art",
+        "background": "view of the city skyline visible through the window",
+        "props": "a stylish laptop and a decorative plant on the desk"
+    },
+    "lighting": {
+        "type": "diffused natural light with neon accents",
+        "quality": {
+            "intensity": "soft yet bright",
+            "direction": "coming from the front and slightly below"
+        },
+        "on_subject": {
+            "highlights": "light highlighting her cheekbones and hair",
+            "shadows": "soft shadows under her chin and neck"
+        }
+    },
+    "photography": {
+        "angle": "dutch angle for a dynamic perspective",
+        "shot": "medium full shot capturing her from head to knees",
+        "framing": "subject is centered with the background visible",
+        "focus": "sharp focus on the subject with a slightly blurred background",
+        "style": "fashion photography style"
+    },
+    "color_palette": {
+        "dominant": "soft pastels with hints of vibrant colors",
+        "accent": "neon accents and earthy greens from plants",
+        "mood": "inviting and stylish"
+    },
+    "vibe": {
+        "energy": "confident and powerful",
+        "mood": "playful yet sophisticated",
+        "aesthetic": "grunge chic with modern elegance"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young woman with natural features",
+        "POSE": "kneeling while looking at a mirror",
+        "OUTFIT": "stylish pastel silk blouse and mini skirt",
+        "SETTING": "luxurious office with modern decor",
+        "STYLE": "fashion photography with a grunge aesthetic"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #female #woman #tanskin #ambereyes #office #grungechicwithmodernelegance #playfulyetsophisticated #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## 🔗 Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/strawberry-blonde-female-19-luxurious-office-with-grunge-chic-with-modern-elegance?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
