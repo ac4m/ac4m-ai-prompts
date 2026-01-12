@@ -1,44 +1,49 @@
-# 🎨 AC4M.com - AI Influencer Prompts
+# :art: AC4M.com - AI Influencer Prompts
 
-![AC4M.com](https://ac4m.com/uploads/logo.png)
+[![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Prompts](https://img.shields.io/badge/Prompts-22+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
-Ready-to-use AI prompts for generating stunning influencer images. Compatible with Flux, Midjourney, DALL-E, and more.
+> :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
+>
+> Compatible with Flux, Midjourney, DALL-E, Stable Diffusion, Leonardo AI, and 30+ more tools!
 
-## 🌐 Visit Our Website
+## :globe_with_meridians: Visit Our Website
 
 **[AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** - Browse thousands of AI-generated influencer images with prompts.
 
 ---
 
-## 📸 AI Prompts (21)
+## :camera: AI Prompts (22)
 
 | Preview | Title | Link |
 |---------|-------|------|
-| 🖼️ | Dirty Blonde Male, Mature - Stylish Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-mature-stylish-rooftop-during-editorial-high-fashion-with-urban-influences.md) |
-| 🖼️ | Platinum Blonde Female, Mid - Indoor Sta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-indoor-staircase-in-high-fashion-editorial-with-a-glamorous-touch.md) |
-| 🖼️ | Strawberry Blonde Female, 19, - Luxuriou... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-luxurious-office-with-grunge-chic-with-modern-elegance.md) |
-| 🖼️ | Blue-haired Female, Early 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-30s-indoor-ice-cream-modern-street-photography-with-a-cozy-feel.md) |
-| 🖼️ | Auburn-haired Female, Early 20s, - Amuse... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-early-20s-amusement-park-on-grunge-meets-playful-outdoor-fun.md) |
-| 🖼️ | Brunette Female, Mid-20s, Fit - A Vintag... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-mid-20s-fit-a-vintage-hotel-minimalist-with-a-touch-of-grunge.md) |
-| 🖼️ | Light Brown Hair Female, - A Cozy, Warm ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-cozy-warm-clean-professional-look-with-a-hint-of-glam.md) |
-| 🖼️ | A Misty Outdoor Lighthouse Surrounded By... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-misty-outdoor-lighthouse-surrounded-by-sea-during-golden-hour-with-a-serene-atmosphere-brune.md) |
-| 🖼️ | Strawberry Blonde Female, Age - Japanese... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-age-japanese-garden-at-film-noir-classic-with-a-modern-twist.md) |
-| 🖼️ | Dirty Blonde Male, 20 - Luxurious Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-20-luxurious-indoor-ambiance-editorial-high-fashion-with-a-sporty-twist.md) |
-| 🖼️ | Mature Elegant Character With - Cute Caf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mature-elegant-character-with-cute-cafe-interior-cyberpunk-anime-aesthetic.md) |
-| 🖼️ | Red-haired Female, Late 20s, - Indoor Ic... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-female-late-20s-indoor-ice-cream-clean-professional-look-with-a-hint-of-high-fas.md) |
-| 🖼️ | Pink-haired Female, Early 20s, - Art Gal... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-female-early-20s-art-gallery-with-chic-and-stylish.md) |
-| 🖼️ | Dark Brown Hair Female, - Sunflower Fiel... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-hair-female-sunflower-field-during-minimalist-and-grunge-aesthetic.md) |
-| 🖼️ | Platinum-haired Indian Male, Mid - Indus... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-haired-indian-male-mid-industrial-loft-style-urban-street-style-with-a-sophisticate.md) |
-| 🖼️ | Blue-haired Female, Early 20s, - Rooftop... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-rooftop-bar-with-gothic-dark-romantic-with-modern-minimalism.md) |
-| 🖼️ | Purple-haired Asian Woman, Mid - A Beaut... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-asian-woman-mid-a-beautifully-decorated-bohemian-free-spirit-theme-with-chic-e.md) |
-| 🖼️ | Auburn Female, Mid 30s, - A Luxurious Ho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-female-mid-30s-a-luxurious-hotel-gothic-dark-romantic-with-a-modern-twist.md) |
-| 🖼️ | Red Hair Young Woman, - A Luxurious Sush... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-hair-young-woman-a-luxurious-sushi-gothic-dark-romantic-visual-aesthetic-style.md) |
-| 🖼️ | Light Brown Hair, Female, - A Luxurious ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-luxurious-infinity-vintage-film-look-with-modern-elements.md) |
-| 🖼️ | Light Brown Female, Mid - Outdoor Yacht ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-female-mid-outdoor-yacht-at-modern-contemporary-with-a-touch-of-tropical.md) |
+| :framed_picture: | Black Female, Early 30s, - A Misty Outdo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-female-early-30s-a-misty-outdoor-modern-minimalist-with-a-touch-of-nature.md) |
+| :framed_picture: | Dirty Blonde Male, Mature - Stylish Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-mature-stylish-rooftop-during-editorial-high-fashion-with-urban-influences.md) |
+| :framed_picture: | Platinum Blonde Female, Mid - Indoor Sta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-indoor-staircase-in-high-fashion-editorial-with-a-glamorous-touch.md) |
+| :framed_picture: | Strawberry Blonde Female, 19, - Luxuriou... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-luxurious-office-with-grunge-chic-with-modern-elegance.md) |
+| :framed_picture: | Blue-haired Female, Early 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-30s-indoor-ice-cream-modern-street-photography-with-a-cozy-feel.md) |
+| :framed_picture: | Auburn-haired Female, Early 20s, - Amuse... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-early-20s-amusement-park-on-grunge-meets-playful-outdoor-fun.md) |
+| :framed_picture: | Brunette Female, Mid-20s, Fit - A Vintag... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-mid-20s-fit-a-vintage-hotel-minimalist-with-a-touch-of-grunge.md) |
+| :framed_picture: | Light Brown Hair Female, - A Cozy, Warm ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-cozy-warm-clean-professional-look-with-a-hint-of-glam.md) |
+| :framed_picture: | A Misty Outdoor Lighthouse Surrounded By... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-misty-outdoor-lighthouse-surrounded-by-sea-during-golden-hour-with-a-serene-atmosphere-brune.md) |
+| :framed_picture: | Strawberry Blonde Female, Age - Japanese... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-age-japanese-garden-at-film-noir-classic-with-a-modern-twist.md) |
+| :framed_picture: | Dirty Blonde Male, 20 - Luxurious Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-20-luxurious-indoor-ambiance-editorial-high-fashion-with-a-sporty-twist.md) |
+| :framed_picture: | Mature Elegant Character With - Cute Caf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mature-elegant-character-with-cute-cafe-interior-cyberpunk-anime-aesthetic.md) |
+| :framed_picture: | Red-haired Female, Late 20s, - Indoor Ic... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-female-late-20s-indoor-ice-cream-clean-professional-look-with-a-hint-of-high-fas.md) |
+| :framed_picture: | Pink-haired Female, Early 20s, - Art Gal... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-female-early-20s-art-gallery-with-chic-and-stylish.md) |
+| :framed_picture: | Dark Brown Hair Female, - Sunflower Fiel... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-hair-female-sunflower-field-during-minimalist-and-grunge-aesthetic.md) |
+| :framed_picture: | Platinum-haired Indian Male, Mid - Indus... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-haired-indian-male-mid-industrial-loft-style-urban-street-style-with-a-sophisticate.md) |
+| :framed_picture: | Blue-haired Female, Early 20s, - Rooftop... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-rooftop-bar-with-gothic-dark-romantic-with-modern-minimalism.md) |
+| :framed_picture: | Purple-haired Asian Woman, Mid - A Beaut... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-asian-woman-mid-a-beautifully-decorated-bohemian-free-spirit-theme-with-chic-e.md) |
+| :framed_picture: | Auburn Female, Mid 30s, - A Luxurious Ho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-female-mid-30s-a-luxurious-hotel-gothic-dark-romantic-with-a-modern-twist.md) |
+| :framed_picture: | Red Hair Young Woman, - A Luxurious Sush... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-hair-young-woman-a-luxurious-sushi-gothic-dark-romantic-visual-aesthetic-style.md) |
+| :framed_picture: | Light Brown Hair, Female, - A Luxurious ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-luxurious-infinity-vintage-film-look-with-modern-elements.md) |
+| :framed_picture: | Light Brown Female, Mid - Outdoor Yacht ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-female-mid-outdoor-yacht-at-modern-contemporary-with-a-touch-of-tropical.md) |
 
 ---
 
-## 📖 How to Use
+## :book: How to Use
 
 1. Browse the prompts above
 2. Click to view the full prompt
@@ -46,22 +51,75 @@ Ready-to-use AI prompts for generating stunning influencer images. Compatible wi
 4. Paste into your favorite AI image generator
 5. Generate amazing images!
 
-## 🛠️ Compatible With
+## :wrench: Compatible AI Tools
 
-- Flux (Recommended)
-- Midjourney
-- DALL-E 3
-- Stable Diffusion
-- Leonardo AI
+### :zap: Text-to-Image Generators
+
+| Tool | Type | Recommended |
+|------|------|-------------|
+| **Flux Pro / Flux Dev** | Open Source | :star: Best Quality |
+| **Midjourney v6** | Subscription | :star: Artistic |
+| **DALL-E 3** | OpenAI | Great for text |
+| **Stable Diffusion XL** | Open Source | Customizable |
+| **Stable Diffusion 3** | Stability AI | Latest |
+| **Leonardo AI** | Freemium | Easy to use |
+| **Ideogram 2.0** | Freemium | Text rendering |
+| **Adobe Firefly** | Adobe | Commercial safe |
+| **Google Imagen 3** | Google | Photorealistic |
+| **Amazon Titan** | AWS | Enterprise |
+
+### :rocket: API & Cloud Services
+
+| Service | Best For |
+|---------|----------|
+| **Replicate** | Easy API access |
+| **Fal.ai** | Fast inference |
+| **RunPod** | GPU rental |
+| **Banana.dev** | Serverless GPU |
+| **Modal** | Python serverless |
+| **Together AI** | Open models |
+| **Fireworks AI** | Fast inference |
+| **Baseten** | ML deployment |
+| **Hugging Face** | Model hub |
+| **ComfyUI** | Node-based workflow |
+
+### :iphone: Mobile & Apps
+
+- **Lensa AI** - Portrait enhancement
+- **Wonder AI** - Art styles
+- **Dream by WOMBO** - Quick generation
+- **NightCafe** - Multiple models
+- **Artbreeder** - Collaborative
+- **Playground AI** - Free generations
+- **Tensor.Art** - LoRA models
+- **Civitai** - Model community
+- **SeaArt** - Asian styles
+- **PixAI** - Anime focused
 
 ---
 
-## ⭐ Star This Repo
+## :bulb: Prompt Tips
 
-If you find these prompts useful, please give this repository a star! It helps others discover these resources.
+```
+1. Be specific with descriptions (age, hair color, clothing)
+2. Include lighting details (golden hour, studio lighting)
+3. Specify camera settings (85mm lens, shallow DOF)
+4. Add style keywords (photorealistic, cinematic, editorial)
+5. Use negative prompts for better results
+```
+
+## :hash: Popular Tags
+
+`#AIart` `#AIinfluencer` `#virtualinfluencer` `#AIgenerated` `#digitalart` `#AIphotography` `#FluxAI` `#Midjourney` `#StableDiffusion` `#AImodel` `#generativeart` `#synthography` `#aiportrait` `#texttoimage` `#promptengineering` `#aiartcommunity`
+
+## :star: Star This Repo
+
+If you find these prompts useful, please give this repository a star! :star:
+
+It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:20:16 UTC*
+*Last updated: 2026-01-12 12:26:35 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
