@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-142+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-152+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (142)
+## :camera: AI Prompts (152)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Handsome Anime Boy - Colorful Flower Fie... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-colorful-flower-field-modern-anime-style-josei-manga-aesthetic.md) |
+| :framed_picture: | Light Brown Male, 18-20 - Photo Studio W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-male-18-20-photo-studio-with-dark-moody-vintage-classic.md) |
+| :framed_picture: | Red Hair Asian Male, - A Luxurious Ranch... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-hair-asian-male-a-luxurious-ranch-modern-contemporary-with-a-touch-of-classic-charm.md) |
+| :framed_picture: | Dirty Blonde Asian Male, - Penthouse Sui... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-asian-male-penthouse-suite-with-editorial-high-fashion.md) |
+| :framed_picture: | Bishoujo (beautiful Girl) - School Swimm... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-school-swimming-pool-shonen-anime-style-with-steampunk-influences.md) |
+| :framed_picture: | Blonde Male, Mature Distinguished, - Mod... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blonde-male-mature-distinguished-modern-interior-design-modern-and-sleek.md) |
+| :framed_picture: | Beautiful Anime Girl With - Sunset Golde... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-sunset-golden-hour-mappa-modern-anime-style-with-clamp-elegant-art.md) |
+| :framed_picture: | Latino Young Man, Early - Cigar Lounge W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/latino-young-man-early-cigar-lounge-with-dark-moody-with-elegant-undertones.md) |
+| :framed_picture: | Beautiful Anime Girl With - Cherry Bloss... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-cherry-blossom-trees-studio-trigger-dynamic-style.md) |
+| :framed_picture: | Light Brown Female, Age - Indoor Gym Wit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-female-age-indoor-gym-with-dark-academia-with-a-modern-twist.md) |
 | :framed_picture: | Grey-haired Caucasian Man, Late - A Graf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-haired-caucasian-man-late-a-graffiti-wall-a-vintage-classic-look-with-modern-street-ele.md) |
 | :framed_picture: | Brown-haired Male, Mid 30s, - A Gritty R... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-male-mid-30s-a-gritty-raw-modern-urban-aesthetic-with-a-hint-of-nostalgia.md) |
 | :framed_picture: | Black-haired Indian Young Man, - Urban C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-haired-indian-young-man-urban-city-environment-clean-professional-with-an-editorial-hi.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Confident Woman at Stylish Bar | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-at-stylish-bar.md) |
 | :framed_picture: | Ikemen (handsome Man) - Mystical Forest ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-mystical-forest-or-shonen-anime-style-isekai-fantasy-anime.md) |
 | :framed_picture: | Elegant Night Out at the Nightclub | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-night-out-at-the-nightclub.md) |
-| :framed_picture: | Salt And Pepper Male, - An Outdoor Water... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-male-an-outdoor-waterfall-authentic-and-raw.md) |
-| :framed_picture: | Beautiful Anime Girl With - Serene Lake ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-serene-lake-during-clamp-elegant-art-style.md) |
-| :framed_picture: | Cute Kawaii Girl, Quiet - Tokyo Neon Str... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-quiet-tokyo-neon-street-studio-trigger-dynamic-style.md) |
-| :framed_picture: | Confident Woman at Urban Gas Station | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-at-urban-gas-station.md) |
-| :framed_picture: | Cute Kawaii Girl, Cool - School Rooftop,... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-cool-school-rooftop-school-josei-manga-aesthetic.md) |
-| :framed_picture: | Playful Asian Girl in Modern Office | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-asian-girl-in-modern-office.md) |
-| :framed_picture: | Seductive Sunset Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/seductive-sunset-bedroom-portrait.md) |
-| :framed_picture: | Elegant Middle Eastern Woman in Urban Ba... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-middle-eastern-woman-in-urban-bathroom.md) |
-| :framed_picture: | Mysterious Latina Girl on Industrial Bea... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mysterious-latina-girl-on-industrial-beach.md) |
-| :framed_picture: | Vibrant Middle Eastern Woman in Vintage ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/vibrant-middle-eastern-woman-in-vintage-gym.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:30:24 UTC*
+*Last updated: 2026-01-12 13:35:15 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
