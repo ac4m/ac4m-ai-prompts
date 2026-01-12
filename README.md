@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-62+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-72+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (62)
+## :camera: AI Prompts (72)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Ikemen (handsome Man), Cool - Cherry Blo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-cool-cherry-blossom-trees-isekai-fantasy-anime.md) |
+| :framed_picture: | Bishounen (beautiful Boy) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-school-rooftop-or-clamp-elegant-art-style.md) |
+| :framed_picture: | Cool Beauty Type And - Tokyo Neon Street... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-and-tokyo-neon-street-chibi-cute-style.md) |
+| :framed_picture: | Bishoujo (beautiful Girl), Ikemen - Scho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-ikemen-school-classroom-locker-modern-anime-style-shojo-manga-style.md) |
+| :framed_picture: | Tsundere Personality With A - Set In A -... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tsundere-personality-with-a-set-in-a-chibi-cute-style-with-cyberpunk-anime-aesthetic.md) |
+| :framed_picture: | Cool Beauty Type - Magical Enchanted For... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-magical-enchanted-forest-kyoto-animation-soft-style.md) |
+| :framed_picture: | Cool Beauty Type With - Set In A - Shone... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-with-set-in-a-shonen-and-shojo-anime-style-with-vibrant-colors.md) |
+| :framed_picture: | Platinum Blonde Female, Early - A Vibran... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-early-a-vibrant-and-intimate-yet-chic.md) |
+| :framed_picture: | Intimate Nighttime Car Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/intimate-nighttime-car-portrait.md) |
+| :framed_picture: | Gökdelen Manzarasında Güçlü Latina Kızı | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/gokdelen-manzarasinda-guclu-latina-kizi.md) |
 | :framed_picture: | Bishoujo (beautiful Girl) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-school-rooftop-cute-makoto-shinkai-style-ufotable-detailed-animat.md) |
 | :framed_picture: | Pink Haired Young Woman, - A Vibrant Fes... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-young-woman-a-vibrant-festival-modern-contemporary-festival-style.md) |
 | :framed_picture: | Strawberry Blonde Female, 19, - Indoor A... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-indoor-art-gallery-vintage-bohemian.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Honey Blonde Female, Early - A Misty Sum... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-early-a-misty-summer-dark-academia-with-bohemian-touches.md) |
 | :framed_picture: | Red-haired Latina Woman, Mid - A Vibrant... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-mid-a-vibrant-rooftop-bold-striking-with-a-gothic-dark-romantic-twist.md) |
 | :framed_picture: | Honey Blonde Female, Age - A Vibrant Sun... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-age-a-vibrant-sunflower-a-blend-of-bohemian-and-classic-styles.md) |
-| :framed_picture: | Black Female, Early 30s, - A Misty Outdo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-female-early-30s-a-misty-outdoor-modern-minimalist-with-a-touch-of-nature.md) |
-| :framed_picture: | Dirty Blonde Male, Mature - Stylish Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-mature-stylish-rooftop-during-editorial-high-fashion-with-urban-influences.md) |
-| :framed_picture: | Platinum Blonde Female, Mid - Indoor Sta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-indoor-staircase-in-high-fashion-editorial-with-a-glamorous-touch.md) |
-| :framed_picture: | Strawberry Blonde Female, 19, - Luxuriou... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-luxurious-office-with-grunge-chic-with-modern-elegance.md) |
-| :framed_picture: | Blue-haired Female, Early 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-30s-indoor-ice-cream-modern-street-photography-with-a-cozy-feel.md) |
-| :framed_picture: | Auburn-haired Female, Early 20s, - Amuse... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-early-20s-amusement-park-on-grunge-meets-playful-outdoor-fun.md) |
-| :framed_picture: | Brunette Female, Mid-20s, Fit - A Vintag... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-mid-20s-fit-a-vintage-hotel-minimalist-with-a-touch-of-grunge.md) |
-| :framed_picture: | Light Brown Hair Female, - A Cozy, Warm ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-cozy-warm-clean-professional-look-with-a-hint-of-glam.md) |
-| :framed_picture: | A Misty Outdoor Lighthouse Surrounded By... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-misty-outdoor-lighthouse-surrounded-by-sea-during-golden-hour-with-a-serene-atmosphere-brune.md) |
-| :framed_picture: | Strawberry Blonde Female, Age - Japanese... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-age-japanese-garden-at-film-noir-classic-with-a-modern-twist.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:50:15 UTC*
+*Last updated: 2026-01-12 12:55:15 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
