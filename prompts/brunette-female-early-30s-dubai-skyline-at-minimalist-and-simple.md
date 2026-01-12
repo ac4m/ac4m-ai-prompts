@@ -1,0 +1,129 @@
+# Brunette Female, Early 30s, - Dubai Skyline At - Minimalist And Simple
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/brunette-female-early-30s-dubai-skyline-at-minimalist-and-simple?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/brunette-female-early-30s-dubai-skyline-at-minimalist-and-simple?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Brunette Female, Early 30s, - Dubai Skyline At - Minimalist And Simple](https://ac4m.com/uploads/brunette-female-early-30s-dubai-skyline-at-minimal_6960359f80bf5.webp)
+
+## Description
+
+Brunette female, early 30s, slim and curvy body type, wearing casual and chic attire, standing thoughtfully, at Dubai Skyline, with a sophisticated yet playful atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Dubai Skyline at sunset with a moody atmosphere",
+    "subject": {
+        "character": "Brunette female, early 30s, slim and curvy body type",
+        "face": {
+            "structure": "mature elegant features with a strong jawline",
+            "skin": "healthy natural brown skin",
+            "eyes": {
+                "shape": "large expressive eyes with monolid shape",
+                "color": "rich brown",
+                "expression": "seductive and playful gaze"
+            },
+            "mouth": {
+                "lips": "plump natural pink lips with a slight pout and smirk"
+            }
+        },
+        "hair": {
+            "color": "brunette",
+            "state": "healthy and styled",
+            "texture": "curly and coily",
+            "style": "long with curtain bangs",
+            "shine": "subtle healthy shine"
+        },
+        "skin_state": {
+            "texture": "natural skin texture with pores and imperfections",
+            "details": "no visible blemishes, slight glow"
+        }
+    },
+    "pose": {
+        "overall": "standing thoughtfully",
+        "position": {
+            "base": "standing",
+            "orientation": "slightly angled towards the camera"
+        },
+        "torso": {
+            "direction": "three-quarter angle",
+            "curve": "subtle body curve accentuating femininity"
+        },
+        "arms": {
+            "position": "raised, holding a phone"
+        },
+        "head": {
+            "turn": "tilted right, looking up towards the sky",
+            "expression": "thoughtful and serene"
+        }
+    },
+    "outfit": {
+        "type": "casual and chic attire",
+        "color": "white and green",
+        "style": "tight fit sports bra under a light cardigan",
+        "fit": "form-fitting"
+    },
+    "environment": {
+        "location": "Dubai Skyline",
+        "details": "view of skyscrapers shrouded in a foggy ambiance",
+        "background": "blurred cityscape with hints of sunset colors",
+        "props": "holding a wine glass in the right hand"
+    },
+    "lighting": {
+        "type": "sunset light",
+        "quality": {
+            "intensity": "soft and warm",
+            "direction": "front-facing light casting a gentle glow"
+        },
+        "on_subject": {
+            "highlights": "light catching the curves and contours of the face and body",
+            "shadows": "soft shadows under the chin and in the curves"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "medium full shot framing the subject and city skyline",
+        "framing": "subject slightly off-center for a dynamic composition",
+        "focus": "sharp focus on the subject with soft background blur",
+        "style": "editorial fashion style"
+    },
+    "color_palette": {
+        "dominant": "warm oranges and greens",
+        "accent": "soft pinks and browns",
+        "mood": "dreamy and ethereal"
+    },
+    "vibe": {
+        "energy": "edgy and bold",
+        "mood": "sophisticated yet playful",
+        "aesthetic": "minimalist and simple"
+    },
+    "critical_requirements": {
+        "SUBJECT": "realistic human female with natural features",
+        "POSE": "thoughtful standing pose with a phone",
+        "OUTFIT": "chic casual ensemble with tight fitting",
+        "SETTING": "Dubai Skyline during sunset",
+        "STYLE": "editorial fashion with a moody vibe"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #brunettehair #female #woman #richeyes #minimalistandsimple #sophisticatedyetplayful #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/brunette-female-early-30s-dubai-skyline-at-minimalist-and-simple?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
