@@ -1,0 +1,129 @@
+# Pink Haired Young Woman, - A Vibrant Festival - Modern Contemporary Festival Style
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/pink-haired-young-woman-a-vibrant-festival-modern-contemporary-festival-style?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/pink-haired-young-woman-a-vibrant-festival-modern-contemporary-festival-style?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Pink Haired Young Woman, - A Vibrant Festival - Modern Contemporary Festival Style](https://ac4m.com/uploads/pink-haired-young-woman-a-vibrant-festival-modern-_695c2e252713f.webp)
+
+## Description
+
+Pink haired young woman, late 20s, curvy body type, wearing Tank top and mini skirt, Lying on her side, applying makeup, at Festival Grounds with colorful decorations, with a Playful and attractive atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A vibrant festival grounds during spring, under an overcast sky, creating a moody and lively atmosphere.",
+    "subject": {
+        "character": "Pink haired young woman, late 20s, curvy body type",
+        "face": {
+            "structure": "Soft natural features with a strong jawline",
+            "skin": "Light, naturally glowing skin",
+            "eyes": {
+                "shape": "Large expressive eyes",
+                "color": "Dark Brown",
+                "expression": "Soft gaze"
+            },
+            "mouth": {
+                "lips": "Heart shaped, glossy with a slight smile"
+            }
+        },
+        "hair": {
+            "color": "Pink",
+            "state": "Shoulder length, straight",
+            "texture": "Straight",
+            "style": "Messy bun",
+            "shine": "Natural shine"
+        },
+        "skin_state": {
+            "texture": "Smooth skin texture with natural imperfections",
+            "details": "A light rosy blush on the cheeks"
+        }
+    },
+    "pose": {
+        "overall": "Lying on her side, applying makeup",
+        "position": {
+            "base": "Lying position",
+            "orientation": "Facing slightly downwards"
+        },
+        "torso": {
+            "direction": "Arched back",
+            "curve": "S-curve body shape"
+        },
+        "arms": {
+            "position": "Hugging herself"
+        },
+        "head": {
+            "turn": "Looking over her shoulder",
+            "expression": "Soft and inviting"
+        }
+    },
+    "outfit": {
+        "type": "Tank top and mini skirt",
+        "color": "Nude",
+        "style": "Fitted and stylish",
+        "fit": "Regular fit"
+    },
+    "environment": {
+        "location": "Festival Grounds with colorful decorations",
+        "details": "Misty atmosphere with visible dust particles",
+        "background": "Festival stalls and people gathered around",
+        "props": "Holding a cocktail in one hand"
+    },
+    "lighting": {
+        "type": "Fairy lights illuminating the surroundings",
+        "quality": {
+            "intensity": "Harsh yet warm light",
+            "direction": "Backlighting creates a halo effect"
+        },
+        "on_subject": {
+            "highlights": "Light hitting her hair and cheekbones",
+            "shadows": "Soft shadows on her body"
+        }
+    },
+    "photography": {
+        "angle": "Bird's eye view",
+        "shot": "Close up capturing her applying makeup",
+        "framing": "Centered composition with a focus on her face",
+        "focus": "Sharp focus on the subject with a bokeh background",
+        "style": "Casual mirror selfie aesthetic"
+    },
+    "color_palette": {
+        "dominant": "Soft pinks and neutral tones",
+        "accent": "Warm gold and deep browns",
+        "mood": "Warm and inviting"
+    },
+    "vibe": {
+        "energy": "Lively with a touch of sensuality",
+        "mood": "Playful and attractive",
+        "aesthetic": "Modern contemporary festival style"
+    },
+    "critical_requirements": {
+        "SUBJECT": "Young woman with natural skin texture",
+        "POSE": "Lying on side while applying makeup",
+        "OUTFIT": "Stylish tank top and mini skirt in nude color",
+        "SETTING": "Festival grounds with vibrant atmosphere",
+        "STYLE": "Photorealistic UGC style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #female #woman #darkeyes #moderncontemporaryfestivalstyle #playfulandattractive #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/pink-haired-young-woman-a-vibrant-festival-modern-contemporary-festival-style?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
