@@ -1,0 +1,129 @@
+# Black Female, Early 20s, - Rooftop Pool With - Modern Chic With A Hint Of Tropical
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/black-female-early-20s-rooftop-pool-with-modern-chic-with-a-hint-of-tropical?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/black-female-early-20s-rooftop-pool-with-modern-chic-with-a-hint-of-tropical?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Black Female, Early 20s, - Rooftop Pool With - Modern Chic With A Hint Of Tropical](https://ac4m.com/uploads/black-female-early-20s-rooftop-pool-with-modern-ch_695d782669cbe.webp)
+
+## Description
+
+Black female, early 20s, fit body type, wearing bralette and sweatpants, lying on back with a relaxed demeanor while applying makeup, at rooftop pool in an urban setting, with a light-hearted and fun atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Rooftop Pool with a stunning sunset view over the city skyline, vibrant and lively atmosphere",
+    "subject": {
+        "character": "Black female, early 20s, fit body type",
+        "face": {
+            "structure": "delicate refined features",
+            "skin": "tan, clear healthy skin",
+            "eyes": {
+                "shape": "small delicate eyes",
+                "color": "hazel",
+                "expression": "direct gaze"
+            },
+            "mouth": {
+                "lips": "bow shaped, slight smile"
+            }
+        },
+        "hair": {
+            "color": "black",
+            "state": "well-groomed",
+            "texture": "straight",
+            "style": "long ponytail",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "smooth with natural pores",
+            "details": "no significant imperfections"
+        }
+    },
+    "pose": {
+        "overall": "lying on back with a relaxed demeanor while applying makeup",
+        "position": {
+            "base": "lying",
+            "orientation": "face up towards the sky"
+        },
+        "torso": {
+            "direction": "twisted at the waist",
+            "curve": "gentle body curve"
+        },
+        "arms": {
+            "position": "raised, one hand touching hair"
+        },
+        "head": {
+            "turn": "tilted left",
+            "expression": "content and focused"
+        }
+    },
+    "outfit": {
+        "type": "bralette and sweatpants",
+        "color": "red and green",
+        "style": "casual and sporty",
+        "fit": "loose and comfortable"
+    },
+    "environment": {
+        "location": "rooftop pool in an urban setting",
+        "details": "surrounded by tropical plants and city lights",
+        "background": "distant skyline with sunset colors",
+        "props": "poolside lounge chairs and a tropical drink"
+    },
+    "lighting": {
+        "type": "sunset light",
+        "quality": {
+            "intensity": "moderate",
+            "direction": "front with soft top highlights"
+        },
+        "on_subject": {
+            "highlights": "on the face and hair",
+            "shadows": "soft shadows around the body"
+        }
+    },
+    "photography": {
+        "angle": "eye level with a slight upward tilt",
+        "shot": "medium close-up",
+        "framing": "subject centered in the frame",
+        "focus": "sharp focus on the subject with a slightly blurred background",
+        "style": "Instagram aesthetic"
+    },
+    "color_palette": {
+        "dominant": "warm sunset hues of orange and pink",
+        "accent": "greens from the plants and the outfit colors",
+        "mood": "inviting and relaxing"
+    },
+    "vibe": {
+        "energy": "playful and carefree",
+        "mood": "light-hearted and fun",
+        "aesthetic": "modern chic with a hint of tropical"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young black woman with natural features",
+        "POSE": "relaxed and engaging pose while applying makeup",
+        "OUTFIT": "casual sporty outfit suitable for a rooftop setting",
+        "SETTING": "vibrant rooftop pool with sunset views",
+        "STYLE": "urban and chic photography style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blackhair #female #woman #tanskin #hazeleyes #pool #modernchicwithahintoftropical #light-heartedandfun #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/black-female-early-20s-rooftop-pool-with-modern-chic-with-a-hint-of-tropical?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
