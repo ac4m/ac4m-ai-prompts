@@ -1,0 +1,129 @@
+# Black Female, Early 20s, - Modern Indoor Library - Vintage Film Look
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/black-female-early-20s-modern-indoor-library-vintage-film-look?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/black-female-early-20s-modern-indoor-library-vintage-film-look?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Black Female, Early 20s, - Modern Indoor Library - Vintage Film Look](https://ac4m.com/uploads/black-female-early-20s-modern-indoor-library-vinta_695bfe588aafb.webp)
+
+## Description
+
+Black female, early 20s, slim body type, wearing button up shirt and leggings, walking through the library, engaged in thought, at library filled with books and cozy seating, with a melancholic yet warm atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Modern indoor library with large windows allowing warm, late morning sunlight to flow through, creating a cozy atmosphere. The vibrant colors of fall leaves can be seen outside.",
+    "subject": {
+        "character": "Black female, early 20s, slim body type",
+        "face": {
+            "structure": "soft natural features",
+            "skin": "brown, natural skin with visible pores",
+            "eyes": {
+                "shape": "hooded eyelids",
+                "color": "dark brown",
+                "expression": "confident gaze"
+            },
+            "mouth": {
+                "lips": "full, bow shaped lips with a slight smile"
+            }
+        },
+        "hair": {
+            "color": "black",
+            "state": "healthy condition",
+            "texture": "fine",
+            "style": "down with bangs",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "smooth skin texture",
+            "details": "subtle freckles"
+        }
+    },
+    "pose": {
+        "overall": "walking through the library, engaged in thought",
+        "position": {
+            "base": "standing",
+            "orientation": "facing slightly to the right"
+        },
+        "torso": {
+            "direction": "slightly twisted to the right",
+            "curve": "natural body curve"
+        },
+        "arms": {
+            "position": "one arm slightly behind back, the other holding a coffee cup"
+        },
+        "head": {
+            "turn": "tilted left",
+            "expression": "thoughtful"
+        }
+    },
+    "outfit": {
+        "type": "button up shirt and leggings",
+        "color": "green and nude",
+        "style": "casual chic",
+        "fit": "regular fit"
+    },
+    "environment": {
+        "location": "library filled with books and cozy seating",
+        "details": "warm colors, soft textures, warm natural light flooding in",
+        "background": "bookshelves filled with books, large windows with fall leaves visible outside",
+        "props": "coffee cup in hand"
+    },
+    "lighting": {
+        "type": "golden hour light",
+        "quality": {
+            "intensity": "medium harshness",
+            "direction": "from the side"
+        },
+        "on_subject": {
+            "highlights": "light hitting the hair and shoulder",
+            "shadows": "soft shadows across the face"
+        }
+    },
+    "photography": {
+        "angle": "high angle",
+        "shot": "medium full shot",
+        "framing": "subject centered with bookshelves framing the scene",
+        "focus": "sharp focus on the subject with soft background",
+        "style": "candid photography"
+    },
+    "color_palette": {
+        "dominant": "earthy tones with green accents",
+        "accent": "warm gold",
+        "mood": "inviting and cozy"
+    },
+    "vibe": {
+        "energy": "thoughtful and serene",
+        "mood": "melancholic yet warm",
+        "aesthetic": "vintage film look"
+    },
+    "critical_requirements": {
+        "SUBJECT": "must look like a real human with natural imperfections",
+        "POSE": "natural walking pose with slight engagement",
+        "OUTFIT": "casual chic style appropriate for a library",
+        "SETTING": "cozy library with warm lighting",
+        "STYLE": "photorealistic and candid"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blackhair #female #woman #darkeyes #vintagefilmlook #melancholicyetwarm #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/black-female-early-20s-modern-indoor-library-vintage-film-look?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
