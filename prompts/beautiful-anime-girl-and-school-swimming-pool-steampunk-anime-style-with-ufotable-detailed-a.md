@@ -1,0 +1,92 @@
+# Beautiful Anime Girl And - School Swimming Pool, - Steampunk Anime Style With Ufotable Detailed A...
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/beautiful-anime-girl-and-school-swimming-pool-steampunk-anime-style-with-ufotable-detailed-a?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/beautiful-anime-girl-and-school-swimming-pool-steampunk-anime-style-with-ufotable-detailed-a?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Beautiful Anime Girl And - School Swimming Pool, - Steampunk Anime Style With Ufotable Detailed A...](https://ac4m.com/uploads/beautiful-anime-girl-and-school-swimming-pool-stea_695c17d9687d4.webp)
+
+## Description
+
+beautiful anime girl and bishounen, in steampunk anime style with Ufotable detailed animation style, wearing summer school uniform, elegant kimono, princess ball gown, crop top and skirt, idol stage costume, elegant evening gown, white wedding dress, frilly ruffle bikini, space suit, in school swimming pool, locker room, konbini convenience store, cherry blossom trees sakura, sunset golden hour, grand throne room, modern living room, with romantic dreamy mood atmosphere.
+
+## Prompt
+
+```
+{
+    "art_style": {
+        "base": "steampunk anime style with Ufotable detailed animation style",
+        "rendering": "cel-shaded rendering with soft gradient shading",
+        "studio_influence": "Ufotable"
+    },
+    "character": {
+        "type": "beautiful anime girl and bishounen",
+        "appearance": "teenage and adult anime characters with slender elegant figure and average anime proportions",
+        "expression": "playful mischievous look and confident smirk"
+    },
+    "hair": {
+        "color": "jet black hair and chocolate brown hair",
+        "style": "dramatically flowing hair",
+        "details": "cute hair ribbon"
+    },
+    "eyes": {
+        "color": "golden amber eyes and brilliant gold eyes",
+        "style": "narrow cool eyes",
+        "expression": "playful mischievous look"
+    },
+    "face": {
+        "features": "soft delicate features",
+        "expression": "confident smirk and peaceful serene expression",
+        "makeup": "light subtle makeup"
+    },
+    "outfit": {
+        "type": "summer school uniform, elegant kimono, princess ball gown, crop top and skirt, idol stage costume, elegant evening gown, white wedding dress, frilly ruffle bikini, space suit",
+        "style": "varied styles suitable for different settings",
+        "colors": "vibrant and soft colors depending on outfit type",
+        "accessories": "none specified"
+    },
+    "pose": {
+        "type": "hands on hips confident, heart hands gesture, sitting sideways, action fighting stance",
+        "gesture": "reaching upward or stretching awakening",
+        "orientation": "dynamic and elegant poses"
+    },
+    "scene": {
+        "location": "school swimming pool, locker room, konbini convenience store, cherry blossom trees sakura, sunset golden hour, grand throne room, modern living room",
+        "atmosphere": "varied atmosphere to match scenarios",
+        "elements": "background elements vary with location"
+    },
+    "lighting": {
+        "type": "soft natural daylight and artificial lighting",
+        "effects": "ring light catchlights and rainbow light prismatic"
+    },
+    "camera": {
+        "shot": "cowboy shot thigh up or from behind view",
+        "angle": "dutch angle tilted",
+        "focus": "blurred background with beautiful bokeh circles"
+    },
+    "mood": {
+        "atmosphere": "romantic dreamy mood",
+        "aesthetic": "soft aesthetic vibes and clean minimalist"
+    },
+    "quality_tags": "professional artwork"
+}
+```
+
+## Details
+
+- **AI Tool:** Flux.2
+- **Type:** AI Generated Image
+- **Tags:** #steampunkanimestylewithufotabledetailedanimationstyle #animegirl #jetblackhairandchocolatebrownhairhair #goldenambereyesandbrilliantgoldeyeseyes #schoolswimmingpool #lockerroom #konbiniconveniencestore #cherryblossomtreessakura #sunsetgoldenhour #grandthroneroom #modernlivingroom #summerschooluniform #elegantkimono #princessballgown #croptopandskirt #idolstagecostume #eleganteveninggown #whiteweddingdress #frillyrufflebikini #spacesuit #softaestheticvibesandcleanminimalist #anime #animeart #aigenerated #animeillustration #mangastyle
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/beautiful-anime-girl-and-school-swimming-pool-steampunk-anime-style-with-ufotable-detailed-a?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
