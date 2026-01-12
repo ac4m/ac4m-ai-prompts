@@ -1,0 +1,129 @@
+# Honey Blonde Female, Mid - A Cozy Warm - Modern Cozy
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/honey-blonde-female-mid-a-cozy-warm-modern-cozy?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/honey-blonde-female-mid-a-cozy-warm-modern-cozy?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Honey Blonde Female, Mid - A Cozy Warm - Modern Cozy](https://ac4m.com/uploads/honey-blonde-female-mid-a-cozy-warm-modern-cozy_695c83ee3882f.webp)
+
+## Description
+
+Honey Blonde female, mid 30s, fit body type with delicate refined features., wearing denim jacket layered over a knit maxi dress, leaning slightly forward with a relaxed posture, at inside a coffee shop with a cozy ambiance, with a happy and uplifting atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A cozy warm atmosphere inside a coffee shop during sunset, with the warm glow of the setting sun filtering through the large windows and casting soft shadows across the room.",
+    "subject": {
+        "character": "Honey Blonde female, mid 30s, fit body type with delicate refined features.",
+        "face": {
+            "structure": "oval face shape with soft cheekbones and a gentle jawline",
+            "skin": "olive skin tone with matte natural quality",
+            "eyes": {
+                "shape": "small delicate eyes with double eyelids",
+                "color": "dark brown",
+                "expression": "soft gaze with an innocent look"
+            },
+            "mouth": {
+                "lips": "plump nude lips with a subtle smirk"
+            }
+        },
+        "hair": {
+            "color": "honey blonde",
+            "state": "healthy",
+            "texture": "thick straight hair",
+            "style": "styled in a bun",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "smooth skin texture with natural pores",
+            "details": "minimal blemishes"
+        }
+    },
+    "pose": {
+        "overall": "leaning slightly forward with a relaxed posture",
+        "position": {
+            "base": "sitting",
+            "orientation": "facing the camera"
+        },
+        "torso": {
+            "direction": "facing forward",
+            "curve": "gentle curve in the back"
+        },
+        "arms": {
+            "position": "resting on the table"
+        },
+        "head": {
+            "turn": "slightly tilted",
+            "expression": "cheerful smile"
+        }
+    },
+    "outfit": {
+        "type": "denim jacket layered over a knit maxi dress",
+        "color": "blue jacket with a pink dress",
+        "style": "casual yet trendy",
+        "fit": "fitted look"
+    },
+    "environment": {
+        "location": "inside a coffee shop with a cozy ambiance",
+        "details": "soft lighting with wooden furniture and potted plants",
+        "background": "a barista preparing coffee in the background",
+        "props": "a small table with a smoothie and a book"
+    },
+    "lighting": {
+        "type": "natural light from the sunset",
+        "quality": {
+            "intensity": "warm and soft",
+            "direction": "coming from the left side"
+        },
+        "on_subject": {
+            "highlights": "light hitting her hair and cheekbones",
+            "shadows": "soft shadows under the chin and nose"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "medium full shot",
+        "framing": "subject centered with some background context",
+        "focus": "sharp focus on the subject with blurred background",
+        "style": "candid, capturing a natural moment"
+    },
+    "color_palette": {
+        "dominant": "warm earth tones",
+        "accent": "subtle pink and blue",
+        "mood": "warm and inviting"
+    },
+    "vibe": {
+        "energy": "relaxed and casual",
+        "mood": "happy and uplifting",
+        "aesthetic": "modern cozy"
+    },
+    "critical_requirements": {
+        "SUBJECT": "young woman with natural appearance",
+        "POSE": "relaxed and engaging pose",
+        "OUTFIT": "casual stylish outfit",
+        "SETTING": "cozy indoor coffee shop",
+        "STYLE": "photorealistic and authentic"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #female #woman #oliveskin #darkeyes #moderncozy #happyanduplifting #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/honey-blonde-female-mid-a-cozy-warm-modern-cozy?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
