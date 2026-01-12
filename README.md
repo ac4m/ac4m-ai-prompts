@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-32+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-42+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (32)
+## :camera: AI Prompts (42)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Charming Ice Cream Shop Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/charming-ice-cream-shop-portrait.md) |
+| :framed_picture: | Auburn-haired Female, Mid 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-mid-30s-indoor-sauna-with-glamorous-and-cozy.md) |
+| :framed_picture: | Red-haired Latina Woman In - Lavender Fi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-in-lavender-field-during-high-fashion-editorial-with-a-natural-setting.md) |
+| :framed_picture: | A Cozy  Sunlit Living Room Scene Featuri... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-cozy-sunlit-living-room-scene-featuring-a-young-woman-sitting-on-a-plush-beige-sofa-with-soft.md) |
+| :framed_picture: | Tsundere Personality - Cherry Blossom Tr... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tsundere-personality-cherry-blossom-trees-slice-of-life-anime-with-a-wit-studio-dynamic-style.md) |
+| :framed_picture: | UGC AI Generated Content | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ugc-ai-generated-content.md) |
+| :framed_picture: | Purple-haired Young Woman, Early - Cozy ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-young-woman-early-cozy-warm-atmosphere-soft-natural-lighting-with-a-y2k-aesthetic.md) |
+| :framed_picture: | Elegant Fine Dining in a Private Jet | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-fine-dining-in-a-private-jet.md) |
+| :framed_picture: | Honey Blonde Mixed Woman, - An Upscale F... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-mixed-woman-an-upscale-fine-y2k-aesthetic-with-a-modern-twist.md) |
+| :framed_picture: | Red Male, Mid 20s, - Street At Midnight ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-male-mid-20s-street-at-midnight-film-noir-style-with-a-cinematic-dramatic-feel.md) |
 | :framed_picture: | Light Brown Hair Female, - An Upscale Wi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-an-upscale-wine-high-fashion-editorial-with-a-tropical-twist.md) |
 | :framed_picture: | Heroic Man by the Rainy Lake | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/heroic-man-by-the-rainy-lake.md) |
 | :framed_picture: | Playful Gym Moment with a Middle Eastern... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-gym-moment-with-a-middle-eastern-woman.md) |
@@ -130,6 +140,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:35:14 UTC*
+*Last updated: 2026-01-12 12:40:14 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
