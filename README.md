@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-222+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-232+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (222)
+## :camera: AI Prompts (232)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Seductive Sunset Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/seductive-sunset-bedroom-portrait-1.md) |
+| :framed_picture: | Light Brown Hair Male, - An Industrial L... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-an-industrial-loft-style-modern-contemporary-with-a-touch-of-ruggedness.md) |
+| :framed_picture: | Bishounen And Cute Kawaii - School Entra... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-and-cute-kawaii-school-entrance-gate-shojo-manga-style.md) |
+| :framed_picture: | Brunette Female, Early 20s, - A Misty Ba... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-early-20s-a-misty-bamboo-modern-and-natural.md) |
+| :framed_picture: | Young Adult Anime Character - Japanese G... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/young-adult-anime-character-japanese-garden-or-shonen-anime-style-with-clamp-elegant-art-style.md) |
+| :framed_picture: | Brown-haired Male, Early 20s, - Indoor G... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-male-early-20s-indoor-gym-with-modern-and-refined.md) |
+| :framed_picture: | Energetic Genki Girl - Magical Enchanted... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-genki-girl-magical-enchanted-forest-wit-studio-dynamic-style.md) |
+| :framed_picture: | Red-haired Male, Early 30s, - A Dark Moo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-male-early-30s-a-dark-moody-vintage-classic-with-an-editorial-high-fashion-feel.md) |
+| :framed_picture: | Pink-haired Asian Woman In - A Cozy Rust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-asian-woman-in-a-cozy-rustic-a-blend-of-film-noir-classic-with-pop-art-colors.md) |
+| :framed_picture: | Red-haired Female, Age 18-20, - A Contem... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-female-age-18-20-a-contemporary-sushi-minimalist-and-modern-with-a-touch-of-eleg.md) |
 | :framed_picture: | White-haired Male, Early 30s, - Indoor L... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/white-haired-male-early-30s-indoor-luxury-hotel-dark-moody-with-elegant-refined-elements.md) |
 | :framed_picture: | Dark Brown Latino Male, - An Evening At ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-latino-male-an-evening-at-vintage-and-elegant.md) |
 | :framed_picture: | Blonde Asian Male, Mid - Garage Workshop... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blonde-asian-male-mid-garage-workshop-with-cinematic-dramatic-style-with-a-real-human-element.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Confident Redhead in a Sexy Bedroom | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-redhead-in-a-sexy-bedroom.md) |
 | :framed_picture: | Honey Blonde Female, 20 - A Cozy Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-20-a-cozy-indoor-dark-academia-with-a-touch-of-modern.md) |
 | :framed_picture: | African Female, Early 20s, - An Urban Ro... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/african-female-early-20s-an-urban-rooftop-dark-academia-with-a-modern-twist.md) |
-| :framed_picture: | Elegant Christmas Coffee Shop Scene | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-christmas-coffee-shop-scene.md) |
-| :framed_picture: | Light Brown Caucasian Male, - A Luxury B... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-caucasian-male-a-luxury-barbershop-film-noir-style-with-a-modern-twist.md) |
-| :framed_picture: | Dirty Blonde Male, Aged - A Rainy Outdoo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-aged-a-rainy-outdoor-a-blend-of-elegant-refinement-and-rugged-street-style.md) |
-| :framed_picture: | Bishoujo (beautiful Girl) - Varied Locat... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-varied-locations-including-kyoto-animation-soft-style.md) |
-| :framed_picture: | Red-haired Middle Eastern Man, - Poker R... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-middle-eastern-man-poker-room-with-elegant-refined-with-a-vintage-classic-touch.md) |
-| :framed_picture: | Brown-haired Middle Eastern Male, - Mode... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-middle-eastern-male-modern-casino-poker-modern-chic-with-a-touch-of-drama.md) |
-| :framed_picture: | Strawberry Blonde Female, Early - Luxury... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-early-luxury-high-end-spa-clean-and-professional-with-a-hint-of-gla.md) |
-| :framed_picture: | Mixed Male, 19 Years - A Stormy Night - ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mixed-male-19-years-a-stormy-night-cinematic-dramatic-with-attention-to-detail.md) |
-| :framed_picture: | Red-haired Young Woman, Early - A Vintag... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-young-woman-early-a-vintage-retro-grunge-and-dark-academia-aesthetics.md) |
-| :framed_picture: | Bishounen (beautiful Boy) With - In A Ma... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-with-in-a-magical-studio-ghibli-inspired.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 14:10:17 UTC*
+*Last updated: 2026-01-12 14:15:25 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
