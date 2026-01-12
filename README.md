@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-232+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-242+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (232)
+## :camera: AI Prompts (242)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Mixed Female, 20, Petite - Sunflower Fie... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mixed-female-20-petite-sunflower-field-during-natural-and-personal.md) |
+| :framed_picture: | Black-haired Female, Mid 30s, - A Roofto... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-haired-female-mid-30s-a-rooftop-bar-clean-and-professional-with-a-touch-of-y2k.md) |
+| :framed_picture: | Dark Brown Female, Early - Paris Street ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-female-early-paris-street-during-grunge-aesthetic-with-a-modern-twist.md) |
+| :framed_picture: | Honey Blonde Female, Early - Indoor Bar ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-early-indoor-bar-setting-soft-natural-lighting-enhancing-the-warmth-of-t.md) |
+| :framed_picture: | Cool Kuudere Type With - School Rooftop ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-kuudere-type-with-school-rooftop-overlooking-moe-kawaii-style.md) |
+| :framed_picture: | Blue-haired Female, 20 Years - Venetian ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-20-years-venetian-canal-at-street-photography-with-a-touch-of-glamour.md) |
+| :framed_picture: | Purple Hair, Female, Early - An Urban Ci... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-hair-female-early-an-urban-city-vaporwave-retro-digital.md) |
+| :framed_picture: | Platinum Blonde Female, 18-20, - Sunflow... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-18-20-sunflower-field-at-casual-yet-chic-capturing-a-youthful-spirit.md) |
+| :framed_picture: | White-haired Male, 19 Years - Penthouse ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/white-haired-male-19-years-penthouse-suite-with-modern-contemporary-with-elegant-touches.md) |
+| :framed_picture: | UGC AI Generated Content | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ugc-ai-generated-content-1.md) |
 | :framed_picture: | Seductive Sunset Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/seductive-sunset-bedroom-portrait-1.md) |
 | :framed_picture: | Light Brown Hair Male, - An Industrial L... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-an-industrial-loft-style-modern-contemporary-with-a-touch-of-ruggedness.md) |
 | :framed_picture: | Bishounen And Cute Kawaii - School Entra... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-and-cute-kawaii-school-entrance-gate-shojo-manga-style.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Light Brown African Male, - A Foggy Dese... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-african-male-a-foggy-desert-elegant-refined-with-a-touch-of-ruggedness.md) |
 | :framed_picture: | Dirty Blonde Latino Male, - Yacht Deck O... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-latino-male-yacht-deck-on-urban-street-with-a-touch-of-luxury.md) |
 | :framed_picture: | Red-haired Young Asian Woman, - Cozy Ind... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-young-asian-woman-cozy-indoor-bedroom-casual-chic-with-a-touch-of-whimsy.md) |
-| :framed_picture: | Light Brown Male, 18-20 - Penthouse Suit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-male-18-20-penthouse-suite-with-clean-professional-with-a-modern-touch.md) |
-| :framed_picture: | A Cozy  Sunlit Living Room Scene Featuri... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-cozy-sunlit-living-room-scene-featuring-a-young-woman-sitting-on-a-plush-beige-sofa-she-has.md) |
-| :framed_picture: | Light Brown HAIR_COLOR Male, - Urban Cit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-color-male-urban-city-environment-gritty-raw-with-cinematic-dramatic-elements.md) |
-| :framed_picture: | Confident Young Woman in Urban Setting | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-young-woman-in-urban-setting.md) |
-| :framed_picture: | Stunning Young Asian Woman in 8K | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/stunning-young-asian-woman-in-8k.md) |
-| :framed_picture: | Platinum Blonde Female, Mid - Hotel Lobb... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-hotel-lobby-with-modern-cozy-aesthetic.md) |
-| :framed_picture: | African Male, Mid 20s, - A Modern Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/african-male-mid-20s-a-modern-industrial-modern-industrial-with-a-hint-of-urban-grit.md) |
-| :framed_picture: | Confident Redhead in a Sexy Bedroom | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-redhead-in-a-sexy-bedroom.md) |
-| :framed_picture: | Honey Blonde Female, 20 - A Cozy Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-20-a-cozy-indoor-dark-academia-with-a-touch-of-modern.md) |
-| :framed_picture: | African Female, Early 20s, - An Urban Ro... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/african-female-early-20s-an-urban-rooftop-dark-academia-with-a-modern-twist.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 14:15:25 UTC*
+*Last updated: 2026-01-12 14:20:24 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
