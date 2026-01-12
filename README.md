@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-42+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-52+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (42)
+## :camera: AI Prompts (52)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Strawberry Blonde Female, Mid - Indoor S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-mid-indoor-spa-with-modern-contemporary-with-a-touch-of-nature.md) |
+| :framed_picture: | Bishounen (beautiful Boy), Energetic - S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-energetic-school-hallway-corridor-chibi-cute-style-ufotable-deta.md) |
+| :framed_picture: | Beautiful Anime Girl And - School Swimmi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-and-school-swimming-pool-steampunk-anime-style-with-ufotable-detailed-a.md) |
+| :framed_picture: | Beautiful Anime Girl - School Entrance G... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-school-entrance-gate-seinen-anime-style.md) |
+| :framed_picture: | Ikemen (handsome Man) With - Mystical Sh... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-with-mystical-shrine-torii-makoto-shinkai-style-and-studio-trigger-dyna.md) |
+| :framed_picture: | Beautiful Anime Girl, Energetic - School... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-energetic-school-gymnasium-school-ufotable-detailed-animation-style-i.md) |
+| :framed_picture: | Elegant Poker Room Stance | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-poker-room-stance.md) |
+| :framed_picture: | Cozy Vintage Hotel Room Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-vintage-hotel-room-portrait.md) |
+| :framed_picture: | Bishounen (beautiful Boy), Ikemen - Japa... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-ikemen-japanese-garden-with-modern-anime-style-shojo-manga-style.md) |
+| :framed_picture: | Brunette Female, 18-20 Years - A Cozy Co... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-18-20-years-a-cozy-coffee-cottagecore-with-a-modern-twist.md) |
 | :framed_picture: | Charming Ice Cream Shop Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/charming-ice-cream-shop-portrait.md) |
 | :framed_picture: | Auburn-haired Female, Mid 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-mid-30s-indoor-sauna-with-glamorous-and-cozy.md) |
 | :framed_picture: | Red-haired Latina Woman In - Lavender Fi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-in-lavender-field-during-high-fashion-editorial-with-a-natural-setting.md) |
@@ -58,8 +68,6 @@
 | :framed_picture: | Purple-haired Asian Woman, Mid - A Beaut... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-asian-woman-mid-a-beautifully-decorated-bohemian-free-spirit-theme-with-chic-e.md) |
 | :framed_picture: | Auburn Female, Mid 30s, - A Luxurious Ho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-female-mid-30s-a-luxurious-hotel-gothic-dark-romantic-with-a-modern-twist.md) |
 | :framed_picture: | Red Hair Young Woman, - A Luxurious Sush... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-hair-young-woman-a-luxurious-sushi-gothic-dark-romantic-visual-aesthetic-style.md) |
-| :framed_picture: | Light Brown Hair, Female, - A Luxurious ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-luxurious-infinity-vintage-film-look-with-modern-elements.md) |
-| :framed_picture: | Light Brown Female, Mid - Outdoor Yacht ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-female-mid-outdoor-yacht-at-modern-contemporary-with-a-touch-of-tropical.md) |
 
 ---
 
@@ -140,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:40:14 UTC*
+*Last updated: 2026-01-12 12:45:14 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
