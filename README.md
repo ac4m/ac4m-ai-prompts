@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-112+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-122+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (112)
+## :camera: AI Prompts (122)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Bohemian Bathroom Bliss | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bohemian-bathroom-bliss.md) |
+| :framed_picture: | Purple-haired Latina Woman, 20 - A Cozy ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-latina-woman-20-a-cozy-coffee-grunge-aesthetic-with-a-modern-twist.md) |
+| :framed_picture: | Platinum Blonde Female, Mid - Tropical I... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-tropical-island-pier-clean-professional-look-with-a-hint-of-glamour.md) |
+| :framed_picture: | Cozy Bedroom Portrait of a Young Woman | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-bedroom-portrait-of-a-young-woman.md) |
+| :framed_picture: | Energetic Gym Portrait of a Confident Gi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-gym-portrait-of-a-confident-girl.md) |
+| :framed_picture: | Confident Young Woman in Vibrant City Sc... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-young-woman-in-vibrant-city-scene.md) |
+| :framed_picture: | Red-haired Latina Woman, 20 - A Rustic S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-latina-woman-20-a-rustic-spa-cottagecore-pastoral-style.md) |
+| :framed_picture: | Beautiful Anime Girl With - A Magical En... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-a-magical-enchanted-modern-anime-style-with-steampunk-influences.md) |
+| :framed_picture: | Energetic Genki Girl With - Set In A - C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-genki-girl-with-set-in-a-chibi-cute-style-influenced-by-makoto-shinkai.md) |
+| :framed_picture: | Bishounen (beautiful Boy) - Japanese Gar... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-japanese-garden-at-isekai-fantasy-anime.md) |
 | :framed_picture: | Joyful Rooftop Selfie at Sunset | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/joyful-rooftop-selfie-at-sunset.md) |
 | :framed_picture: | Dark Brown Haired Latino - An Indoor Lib... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-haired-latino-an-indoor-library-rustic-elegance-combined-with-a-touch-of-modern-style.md) |
 | :framed_picture: | Cozy Urban Bedroom Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cozy-urban-bedroom-portrait.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Yandere Teenage Character - Sunny Beach ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/yandere-teenage-character-sunny-beach-seaside-kyoto-animation-soft-style-clamp-elegant-art-s.md) |
 | :framed_picture: | Auburn Middle Eastern Male - Modern Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-middle-eastern-male-modern-rooftop-with-modern-contemporary-with-a-rustic-twist.md) |
 | :framed_picture: | Handsome Anime Boy, Ikemen - School Hall... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-ikemen-school-hallway-corridor-shojo-manga-style.md) |
-| :framed_picture: | Ikemen (handsome Man), Cool - Cherry Blo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-cool-cherry-blossom-trees-isekai-fantasy-anime.md) |
-| :framed_picture: | Bishounen (beautiful Boy) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-school-rooftop-or-clamp-elegant-art-style.md) |
-| :framed_picture: | Cool Beauty Type And - Tokyo Neon Street... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-and-tokyo-neon-street-chibi-cute-style.md) |
-| :framed_picture: | Bishoujo (beautiful Girl), Ikemen - Scho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-ikemen-school-classroom-locker-modern-anime-style-shojo-manga-style.md) |
-| :framed_picture: | Tsundere Personality With A - Set In A -... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/tsundere-personality-with-a-set-in-a-chibi-cute-style-with-cyberpunk-anime-aesthetic.md) |
-| :framed_picture: | Cool Beauty Type - Magical Enchanted For... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-magical-enchanted-forest-kyoto-animation-soft-style.md) |
-| :framed_picture: | Cool Beauty Type With - Set In A - Shone... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-with-set-in-a-shonen-and-shojo-anime-style-with-vibrant-colors.md) |
-| :framed_picture: | Platinum Blonde Female, Early - A Vibran... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-early-a-vibrant-and-intimate-yet-chic.md) |
-| :framed_picture: | Intimate Nighttime Car Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/intimate-nighttime-car-portrait.md) |
-| :framed_picture: | Gökdelen Manzarasında Güçlü Latina Kızı | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/gokdelen-manzarasinda-guclu-latina-kizi.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:15:18 UTC*
+*Last updated: 2026-01-12 13:20:16 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
