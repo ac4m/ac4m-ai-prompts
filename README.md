@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-52+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-62+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (52)
+## :camera: AI Prompts (62)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Bishoujo (beautiful Girl) - School Rooft... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-school-rooftop-cute-makoto-shinkai-style-ufotable-detailed-animat.md) |
+| :framed_picture: | Pink Haired Young Woman, - A Vibrant Fes... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-young-woman-a-vibrant-festival-modern-contemporary-festival-style.md) |
+| :framed_picture: | Strawberry Blonde Female, 19, - Indoor A... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-indoor-art-gallery-vintage-bohemian.md) |
+| :framed_picture: | Energetic Genki Girl - Cute Cafe Interio... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/energetic-genki-girl-cute-cafe-interior-modern-anime-style-moe-kawaii-style.md) |
+| :framed_picture: | Playful Coffee Shop Moment | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/playful-coffee-shop-moment.md) |
+| :framed_picture: | Strawberry Blonde Female, Early - Roofto... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-early-rooftop-bar-with-clean-professional-look-with-a-touch-of-play.md) |
+| :framed_picture: | Auburn Hair Female, Late - A Cozy Rustic... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-hair-female-late-a-cozy-rustic-street-photography-style-with-a-trendy-twist.md) |
+| :framed_picture: | Cute Kawaii Girl With - School Swimming ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cute-kawaii-girl-with-school-swimming-pool-90s-anime-aesthetic-with-shonen-influences.md) |
+| :framed_picture: | Light Brown Haired Female, - Ancient Rui... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-haired-female-ancient-ruins-surrounded-y2k-aesthetic-with-a-modern-twist.md) |
+| :framed_picture: | Black Hair Female, Early - Shopping Mall... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-hair-female-early-shopping-mall-with-gothic-dark-romantic-with-modern-elements.md) |
 | :framed_picture: | Strawberry Blonde Female, Mid - Indoor S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-mid-indoor-spa-with-modern-contemporary-with-a-touch-of-nature.md) |
 | :framed_picture: | Bishounen (beautiful Boy), Energetic - S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-energetic-school-hallway-corridor-chibi-cute-style-ufotable-deta.md) |
 | :framed_picture: | Beautiful Anime Girl And - School Swimmi... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-and-school-swimming-pool-steampunk-anime-style-with-ufotable-detailed-a.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Light Brown Hair Female, - A Cozy, Warm ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-cozy-warm-clean-professional-look-with-a-hint-of-glam.md) |
 | :framed_picture: | A Misty Outdoor Lighthouse Surrounded By... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-misty-outdoor-lighthouse-surrounded-by-sea-during-golden-hour-with-a-serene-atmosphere-brune.md) |
 | :framed_picture: | Strawberry Blonde Female, Age - Japanese... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-age-japanese-garden-at-film-noir-classic-with-a-modern-twist.md) |
-| :framed_picture: | Dirty Blonde Male, 20 - Luxurious Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-20-luxurious-indoor-ambiance-editorial-high-fashion-with-a-sporty-twist.md) |
-| :framed_picture: | Mature Elegant Character With - Cute Caf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mature-elegant-character-with-cute-cafe-interior-cyberpunk-anime-aesthetic.md) |
-| :framed_picture: | Red-haired Female, Late 20s, - Indoor Ic... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-female-late-20s-indoor-ice-cream-clean-professional-look-with-a-hint-of-high-fas.md) |
-| :framed_picture: | Pink-haired Female, Early 20s, - Art Gal... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-female-early-20s-art-gallery-with-chic-and-stylish.md) |
-| :framed_picture: | Dark Brown Hair Female, - Sunflower Fiel... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-hair-female-sunflower-field-during-minimalist-and-grunge-aesthetic.md) |
-| :framed_picture: | Platinum-haired Indian Male, Mid - Indus... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-haired-indian-male-mid-industrial-loft-style-urban-street-style-with-a-sophisticate.md) |
-| :framed_picture: | Blue-haired Female, Early 20s, - Rooftop... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-rooftop-bar-with-gothic-dark-romantic-with-modern-minimalism.md) |
-| :framed_picture: | Purple-haired Asian Woman, Mid - A Beaut... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/purple-haired-asian-woman-mid-a-beautifully-decorated-bohemian-free-spirit-theme-with-chic-e.md) |
-| :framed_picture: | Auburn Female, Mid 30s, - A Luxurious Ho... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-female-mid-30s-a-luxurious-hotel-gothic-dark-romantic-with-a-modern-twist.md) |
-| :framed_picture: | Red Hair Young Woman, - A Luxurious Sush... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-hair-young-woman-a-luxurious-sushi-gothic-dark-romantic-visual-aesthetic-style.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 12:45:14 UTC*
+*Last updated: 2026-01-12 12:50:15 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
