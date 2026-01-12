@@ -1,0 +1,132 @@
+# Honey Blonde Female, 20 - A Cozy Indoor - Dark Academia With A Touch Of Modern
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/honey-blonde-female-20-a-cozy-indoor-dark-academia-with-a-touch-of-modern?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/honey-blonde-female-20-a-cozy-indoor-dark-academia-with-a-touch-of-modern?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Honey Blonde Female, 20 - A Cozy Indoor - Dark Academia With A Touch Of Modern](https://ac4m.com/uploads/honey-blonde-female-20-a-cozy-indoor-dark-academia_695baaa3eeb95.webp)
+
+## Description
+
+Honey Blonde female, 20 years old, petite body type, wearing Kimono robe over jeans, Lying on the kitchen counter, looking at a mirror, at Indoor kitchen with large windows, with a Warm and joyful atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A cozy indoor kitchen with modern interior design, softly lit at dawn. A hint of snowy weather outside, creating a warm atmosphere inside.",
+    "subject": {
+        "character": "Honey Blonde female, 20 years old, petite body type",
+        "face": {
+            "structure": "Square jawline with delicate features",
+            "skin": "Light skin tone with healthy natural quality",
+            "eyes": {
+                "shape": "Small delicate eyes",
+                "color": "Green",
+                "expression": "Innocent gaze"
+            },
+            "mouth": {
+                "lips": "Heart shaped lips with a slight smile"
+            }
+        },
+        "hair": {
+            "color": "Honey Blonde",
+            "state": "Medium length, slightly messy",
+            "texture": "Straight",
+            "style": "Messy bun",
+            "shine": "Natural shine"
+        },
+        "skin_state": {
+            "texture": "Smooth skin texture",
+            "details": "No visible blemishes"
+        }
+    },
+    "pose": {
+        "overall": "Lying on the kitchen counter, looking at a mirror",
+        "position": {
+            "base": "Lying",
+            "orientation": "Profile facing right"
+        },
+        "torso": {
+            "direction": "Twisted towards mirror",
+            "curve": "Gentle curve of the back"
+        },
+        "arms": {
+            "position": "One arm covering mouth"
+        },
+        "head": {
+            "turn": "Tilted left",
+            "expression": "Playful expression looking up"
+        },
+        "legs": {
+            "position": "Both bent casually"
+        }
+    },
+    "outfit": {
+        "type": "Kimono robe over jeans",
+        "color": "Red and pastel",
+        "style": "Modern yet comfortable",
+        "fit": "Regular fit, flowing"
+    },
+    "environment": {
+        "location": "Indoor kitchen with large windows",
+        "details": "A warm kitchen filled with baking tools",
+        "background": "Softly glowing fairy lights around the room",
+        "props": "Mix of kitchen utensils and a small plant on the counter"
+    },
+    "lighting": {
+        "type": "Firelight warm glow from the kitchen stove",
+        "quality": {
+            "intensity": "Soft and even",
+            "direction": "Backlighting creating a halo effect"
+        },
+        "on_subject": {
+            "highlights": "Warm light hitting the hair and shoulders",
+            "shadows": "Soft shadows under the chin"
+        }
+    },
+    "photography": {
+        "angle": "High angle looking down",
+        "shot": "Medium close-up",
+        "framing": "Centered on the subject with a blurred background",
+        "focus": "Sharp focus on the face and eyes",
+        "style": "Editorial with a soft touch"
+    },
+    "color_palette": {
+        "dominant": "Warm reds and pastel hues",
+        "accent": "Soft white and green",
+        "mood": "Romantic and soft"
+    },
+    "vibe": {
+        "energy": "Calm and inviting",
+        "mood": "Warm and joyful",
+        "aesthetic": "Dark academia with a touch of modern"
+    },
+    "critical_requirements": {
+        "SUBJECT": "Young woman with honey blonde hair",
+        "POSE": "Lying while looking at a mirror",
+        "OUTFIT": "Kimono robe over jeans in warm colors",
+        "SETTING": "Indoor kitchen with modern design",
+        "STYLE": "Photorealistic UGC style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/honey-blonde-female-20-a-cozy-indoor-dark-academia-with-a-touch-of-modern?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
