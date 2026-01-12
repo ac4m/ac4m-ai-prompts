@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-172+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-182+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (172)
+## :camera: AI Prompts (182)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Elegant Christmas Coffee Shop Scene | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-christmas-coffee-shop-scene.md) |
+| :framed_picture: | Light Brown Caucasian Male, - A Luxury B... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-caucasian-male-a-luxury-barbershop-film-noir-style-with-a-modern-twist.md) |
+| :framed_picture: | Dirty Blonde Male, Aged - A Rainy Outdoo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-aged-a-rainy-outdoor-a-blend-of-elegant-refinement-and-rugged-street-style.md) |
+| :framed_picture: | Bishoujo (beautiful Girl) - Varied Locat... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-varied-locations-including-kyoto-animation-soft-style.md) |
+| :framed_picture: | Red-haired Middle Eastern Man, - Poker R... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-middle-eastern-man-poker-room-with-elegant-refined-with-a-vintage-classic-touch.md) |
+| :framed_picture: | Brown-haired Middle Eastern Male, - Mode... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-middle-eastern-male-modern-casino-poker-modern-chic-with-a-touch-of-drama.md) |
+| :framed_picture: | Strawberry Blonde Female, Early - Luxury... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-early-luxury-high-end-spa-clean-and-professional-with-a-hint-of-gla.md) |
+| :framed_picture: | Mixed Male, 19 Years - A Stormy Night - ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mixed-male-19-years-a-stormy-night-cinematic-dramatic-with-attention-to-detail.md) |
+| :framed_picture: | Red-haired Young Woman, Early - A Vintag... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-young-woman-early-a-vintage-retro-grunge-and-dark-academia-aesthetics.md) |
+| :framed_picture: | Bishounen (beautiful Boy) With - In A Ma... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-with-in-a-magical-studio-ghibli-inspired.md) |
 | :framed_picture: | Bishoujo (beautiful Girl) - School Class... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-school-classroom-or-studio-ghibli-inspired.md) |
 | :framed_picture: | Platinum Blonde Female, Mid - A Snowy Ur... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-a-snowy-urban-vintage-film-look-with-a-modern-twist.md) |
 | :framed_picture: | Dark Brown Female, Late - A Vibrant Outd... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-female-late-a-vibrant-outdoor-vintage-film-look-with-a-modern-twist.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Auburn-haired Latino Male, Late - Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-latino-male-late-industrial-loft-with-cinematic-dramatic-style.md) |
 | :framed_picture: | Platinum Blonde Mixed Ethnicity - Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-mixed-ethnicity-indoor-photo-studio-stylish-and-contemporary.md) |
 | :framed_picture: | Light Brown Hair Male, - Luxury High-end... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-luxury-high-end-indoor-modern-contemporary-with-a-touch-of-rugged-charm.md) |
-| :framed_picture: | Bishoujo (beautiful Girl) With - Cherry ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-with-cherry-blossom-trees-isekai-fantasy-anime-clamp-elegant-art-s.md) |
-| :framed_picture: | Cool Beauty Type - Tokyo Neon Street - S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-tokyo-neon-street-seinen-anime-style-with-studio-trigger-dynamic-elements.md) |
-| :framed_picture: | Quiet Dandere Character With - Shibuya C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-character-with-shibuya-crossing-in-shonen-anime-style-with-slice-of-life-influe.md) |
-| :framed_picture: | Athletic Beauty in Vintage Gym | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/athletic-beauty-in-vintage-gym.md) |
-| :framed_picture: | Bishoujo (beautiful Girl), Cute - School... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-cute-school-rooftop-tokyo-ufotable-detailed-animation-style.md) |
-| :framed_picture: | Bishoujo (beautiful Girl) And - School C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-and-school-classroom-cute-studio-ghibli-inspired.md) |
-| :framed_picture: | Ikemen (handsome Man) - Japanese Garden ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-japanese-garden-with-seinen-anime-style.md) |
-| :framed_picture: | Bishounen (beautiful Boy) And - Cherry B... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-and-cherry-blossom-trees-chibi-cute-style.md) |
-| :framed_picture: | Adult Anime Character, Ageless - Varied ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/adult-anime-character-ageless-varied-backgrounds-including-mappa-modern-anime-style-wit-stu.md) |
-| :framed_picture: | Chic Urban Cafe Portrait | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/chic-urban-cafe-portrait.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:45:14 UTC*
+*Last updated: 2026-01-12 13:50:15 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
