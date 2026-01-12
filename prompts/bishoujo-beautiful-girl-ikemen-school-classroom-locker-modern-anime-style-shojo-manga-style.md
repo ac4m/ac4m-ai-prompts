@@ -1,0 +1,92 @@
+# Bishoujo (beautiful Girl), Ikemen - School Classroom, Locker - Modern Anime Style, Shojo Manga Style
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/bishoujo-beautiful-girl-ikemen-school-classroom-locker-modern-anime-style-shojo-manga-style?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/bishoujo-beautiful-girl-ikemen-school-classroom-locker-modern-anime-style-shojo-manga-style?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Bishoujo (beautiful Girl), Ikemen - School Classroom, Locker - Modern Anime Style, Shojo Manga Style](https://ac4m.com/uploads/bishoujo-beautiful-girl-ikemen-school-classroom-lo_695c92ac3e073.webp)
+
+## Description
+
+bishoujo (beautiful girl), ikemen (handsome man), in modern anime style, shojo manga style, wearing winter school uniform, elegant kimono, casual yukata, witch outfit with hat, sporty athletic wear, idol stage costume, white wedding dress, one piece swimsuit, frilly ruffle bikini, futuristic bodysuit, mecha pilot suit, in school classroom, locker room, Shibuya crossing, cute cafe interior, mystical forest, grand throne room, floating sky islands, bathroom mirror, with nostalgic warm feeling, whimsical playful atmosphere.
+
+## Prompt
+
+```
+{
+    "art_style": {
+        "base": "modern anime style, shojo manga style",
+        "rendering": "flat color style",
+        "studio_influence": "none"
+    },
+    "character": {
+        "type": "bishoujo (beautiful girl), ikemen (handsome man)",
+        "appearance": "young adult anime character with ageless ethereal beauty, petite small frame and curvy figure",
+        "expression": "innocent pure expression"
+    },
+    "hair": {
+        "color": "silver white hair, teal turquoise hair",
+        "style": "pixie short cut",
+        "details": "large hair bow, cat ear headband"
+    },
+    "eyes": {
+        "color": "ruby red eyes, mysterious silver eyes",
+        "style": "detailed intricate iris",
+        "expression": "innocent pure expression"
+    },
+    "face": {
+        "features": "heart shaped face",
+        "expression": "cute pouting expression, peaceful serene expression",
+        "makeup": "natural no makeup look, light subtle makeup"
+    },
+    "outfit": {
+        "type": "winter school uniform, elegant kimono, casual yukata, witch outfit with hat, sporty athletic wear, idol stage costume, white wedding dress, one piece swimsuit, frilly ruffle bikini, futuristic bodysuit, mecha pilot suit",
+        "style": "varied styles from cute to elegant",
+        "colors": "soft pastels and vibrant shades",
+        "accessories": "none"
+    },
+    "pose": {
+        "type": "one hand raised waving, sitting sideways, falling floating pose, shy bashful pose, stretching awakening, looking back over shoulder, leaning on something",
+        "gesture": "one hand raised waving",
+        "orientation": "various orientations"
+    },
+    "scene": {
+        "location": "school classroom, locker room, Shibuya crossing, cute cafe interior, mystical forest, grand throne room, floating sky islands, bathroom mirror",
+        "atmosphere": "whimsical and nostalgic",
+        "elements": "various urban and natural elements"
+    },
+    "lighting": {
+        "type": "soft overcast lighting, professional studio lighting",
+        "effects": "sparkle glitter effects"
+    },
+    "camera": {
+        "shot": "full body shot, three quarter view",
+        "angle": "high angle looking down, dutch angle tilted",
+        "focus": "shallow depth of field bokeh"
+    },
+    "mood": {
+        "atmosphere": "nostalgic warm feeling, whimsical playful",
+        "aesthetic": "clean minimalist"
+    },
+    "quality_tags": "award winning illustration"
+}
+```
+
+## Details
+
+- **AI Tool:** Flux.2
+- **Type:** AI Generated Image
+- **Tags:** #modernanimestyle #shojomangastyle #silverwhitehair #tealturquoisehairhair #rubyredeyes #mysterioussilvereyeseyes #schoolclassroom #lockerroom #shibuyacrossing #cutecafeinterior #mysticalforest #grandthroneroom #floatingskyislands #bathroommirror #winterschooluniform #elegantkimono #casualyukata #witchoutfitwithhat #sportyathleticwear #idolstagecostume #whiteweddingdress #onepieceswimsuit #frillyrufflebikini #futuristicbodysuit #mechapilotsuit #cleanminimalist #anime #animeart #aigenerated #animeillustration #mangastyle
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/bishoujo-beautiful-girl-ikemen-school-classroom-locker-modern-anime-style-shojo-manga-style?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
