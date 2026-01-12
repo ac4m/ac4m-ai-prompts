@@ -1,0 +1,129 @@
+# Brunette Female, Early 20s, - A Misty Bamboo - Modern And Natural
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/brunette-female-early-20s-a-misty-bamboo-modern-and-natural?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/brunette-female-early-20s-a-misty-bamboo-modern-and-natural?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Brunette Female, Early 20s, - A Misty Bamboo - Modern And Natural](https://ac4m.com/uploads/brunette-female-early-20s-a-misty-bamboo-modern-an_695bec45d5b9b.webp)
+
+## Description
+
+Brunette female, early 20s, fit body type, wearing Halter top and midi skirt, Standing elegantly in the bamboo forest, at Bamboo forest, with a Dreamy and reflective atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A misty bamboo forest during golden hour, with soft light filtering through the leaves creating a serene and magical atmosphere.",
+    "subject": {
+        "character": "Brunette female, early 20s, fit body type",
+        "face": {
+            "structure": "Defined angular features",
+            "skin": "Fair with naturally glowing skin",
+            "eyes": {
+                "shape": "Small delicate eyes",
+                "color": "Light Blue",
+                "expression": "Dreamy"
+            },
+            "mouth": {
+                "lips": "Bow-shaped lips with a slight smile"
+            }
+        },
+        "hair": {
+            "color": "Brunette",
+            "state": "Long, waist-length, curly and thick",
+            "texture": "Curly",
+            "style": "Middle part",
+            "shine": "Natural shine"
+        },
+        "skin_state": {
+            "texture": "Smooth with natural imperfections",
+            "details": "Clear healthy skin with a natural glow"
+        }
+    },
+    "pose": {
+        "overall": "Standing elegantly in the bamboo forest",
+        "position": {
+            "base": "Standing",
+            "orientation": "Facing slightly towards the left"
+        },
+        "torso": {
+            "direction": "Slightly turned to the left",
+            "curve": "Natural body curve"
+        },
+        "arms": {
+            "position": "One arm stretched out, as if gently touching a bamboo stalk"
+        },
+        "head": {
+            "turn": "Facing slightly forward",
+            "expression": "Soft, contemplative expression"
+        }
+    },
+    "outfit": {
+        "type": "Halter top and midi skirt",
+        "color": "White",
+        "style": "Loose, oversized fit, made from lightweight material",
+        "fit": "Comfortable and flowing"
+    },
+    "environment": {
+        "location": "Bamboo forest",
+        "details": "Soft light creating an ethereal glow",
+        "background": "Tall bamboo trees with soft mist",
+        "props": "None"
+    },
+    "lighting": {
+        "type": "Natural light with a warm golden hue",
+        "quality": {
+            "intensity": "Soft and diffused",
+            "direction": "Coming from the front and slightly above"
+        },
+        "on_subject": {
+            "highlights": "Gentle highlights on the hair and skin",
+            "shadows": "Soft shadows creating depth"
+        }
+    },
+    "photography": {
+        "angle": "Eye level",
+        "shot": "Medium full shot",
+        "framing": "Subject centered with bamboo framing",
+        "focus": "Subject in sharp focus with a soft blurred background",
+        "style": "Natural and candid"
+    },
+    "color_palette": {
+        "dominant": "Soft greens and browns from the bamboo",
+        "accent": "Golden hues from the sunlight",
+        "mood": "Warm and inviting"
+    },
+    "vibe": {
+        "energy": "Calm and serene",
+        "mood": "Dreamy and reflective",
+        "aesthetic": "Modern and natural"
+    },
+    "critical_requirements": {
+        "SUBJECT": "Brunette female with defined angular features",
+        "POSE": "Standing with a gentle touch on the bamboo",
+        "OUTFIT": "White loose halter top and midi skirt",
+        "SETTING": "Misty bamboo forest during golden hour",
+        "STYLE": "Natural and candid photography style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #brunettehair #female #woman #fairskin #lighteyes #modernandnatural #dreamyandreflective #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/brunette-female-early-20s-a-misty-bamboo-modern-and-natural?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
