@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-132+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-142+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (132)
+## :camera: AI Prompts (142)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Grey-haired Caucasian Man, Late - A Graf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-haired-caucasian-man-late-a-graffiti-wall-a-vintage-classic-look-with-modern-street-ele.md) |
+| :framed_picture: | Brown-haired Male, Mid 30s, - A Gritty R... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-male-mid-30s-a-gritty-raw-modern-urban-aesthetic-with-a-hint-of-nostalgia.md) |
+| :framed_picture: | Black-haired Indian Young Man, - Urban C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-haired-indian-young-man-urban-city-environment-clean-professional-with-an-editorial-hi.md) |
+| :framed_picture: | A Cozy Coffee Shop With Rustic Natural W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-cozy-coffee-shop-with-rustic-natural-wood-decor-filled-with-sunlight-streaming-through-the-win.md) |
+| :framed_picture: | Brown-haired Male, Early 20s, - Urban Ci... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-male-early-20s-urban-city-during-modern-urban-with-a-gritty-undertone.md) |
+| :framed_picture: | Grey Male, Early 40s, - Urban City Envir... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-male-early-40s-urban-city-environment-gritty-raw-with-an-editorial-high-fashion-feel.md) |
+| :framed_picture: | Quiet Dandere Type - School Swimming Poo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-type-school-swimming-pool-90s-anime-aesthetic-with-kyoto-animation-soft-style.md) |
+| :framed_picture: | Auburn-haired Latino Male, Late - Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-latino-male-late-industrial-loft-with-cinematic-dramatic-style.md) |
+| :framed_picture: | Platinum Blonde Mixed Ethnicity - Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-mixed-ethnicity-indoor-photo-studio-stylish-and-contemporary.md) |
+| :framed_picture: | Light Brown Hair Male, - Luxury High-end... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-luxury-high-end-indoor-modern-contemporary-with-a-touch-of-rugged-charm.md) |
 | :framed_picture: | Bishoujo (beautiful Girl) With - Cherry ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-with-cherry-blossom-trees-isekai-fantasy-anime-clamp-elegant-art-s.md) |
 | :framed_picture: | Cool Beauty Type - Tokyo Neon Street - S... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/cool-beauty-type-tokyo-neon-street-seinen-anime-style-with-studio-trigger-dynamic-elements.md) |
 | :framed_picture: | Quiet Dandere Character With - Shibuya C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-character-with-shibuya-crossing-in-shonen-anime-style-with-slice-of-life-influe.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Elegant Middle Eastern Woman in Urban Ba... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-middle-eastern-woman-in-urban-bathroom.md) |
 | :framed_picture: | Mysterious Latina Girl on Industrial Bea... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mysterious-latina-girl-on-industrial-beach.md) |
 | :framed_picture: | Vibrant Middle Eastern Woman in Vintage ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/vibrant-middle-eastern-woman-in-vintage-gym.md) |
-| :framed_picture: | Bishoujo And Bishounen Embodying - Fanta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-and-bishounen-embodying-fantasy-setting-like-shojo-manga-style-with-ufotable-detaile.md) |
-| :framed_picture: | Confident Woman in Industrial Restaurant... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-woman-in-industrial-restaurant-at-sunset.md) |
-| :framed_picture: | Elegant Nighttime Selfie in Luxury Car | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-nighttime-selfie-in-luxury-car.md) |
-| :framed_picture: | Locker Room With A Dark Moody Atmosphere... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/locker-room-with-a-dark-moody-atmosphere-dirty-blonde-male-late-20s-bodybuilder.md) |
-| :framed_picture: | Quiet Dandere Type - Fantasy Castle Or -... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-type-fantasy-castle-or-90s-anime-aesthetic.md) |
-| :framed_picture: | Handsome Anime Boy And - School Swimming... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-and-school-swimming-pool-isekai-fantasy-anime-ufotable-detailed-animatio.md) |
-| :framed_picture: | Ikemen (handsome Man) - Japanese Garden,... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-japanese-garden-mystical-josei-manga-aesthetic-mappa-modern-anime-style.md) |
-| :framed_picture: | Yandere Expression - School Library, Arc... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/yandere-expression-school-library-arcade-modern-anime-style-slice-of-life-anime.md) |
-| :framed_picture: | Bishoujo (beautiful Girl) - Japanese Gar... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishoujo-beautiful-girl-japanese-garden-during-90s-anime-aesthetic-with-ufotable-detailed-a.md) |
-| :framed_picture: | Salt And Pepper Hair - Urban City Enviro... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/salt-and-pepper-hair-urban-city-environment-modern-contemporary.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:25:15 UTC*
+*Last updated: 2026-01-12 13:30:24 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
