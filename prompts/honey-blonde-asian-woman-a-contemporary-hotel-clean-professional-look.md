@@ -1,0 +1,129 @@
+# Honey Blonde Asian Woman, - A Contemporary Hotel - Clean Professional Look
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/honey-blonde-asian-woman-a-contemporary-hotel-clean-professional-look?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/honey-blonde-asian-woman-a-contemporary-hotel-clean-professional-look?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Honey Blonde Asian Woman, - A Contemporary Hotel - Clean Professional Look](https://ac4m.com/uploads/honey-blonde-asian-woman-a-contemporary-hotel-clea_695c0b36851c6.webp)
+
+## Description
+
+Honey Blonde Asian woman, early 20s, slim build, wearing bralette paired with oversized jeans, standing confidently while applying makeup, at inside a modern hotel room, with a innocent and pure atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "A contemporary hotel room with large windows allowing soft late morning light to filter in, creating a serene atmosphere.",
+    "subject": {
+        "character": "Honey Blonde Asian woman, early 20s, slim build",
+        "face": {
+            "structure": "diamond face shape with defined cheekbones",
+            "skin": "porcelain skin with natural freckles and visible pores",
+            "eyes": {
+                "shape": "double eyelid",
+                "color": "dark brown",
+                "expression": "confident gaze"
+            },
+            "mouth": {
+                "lips": "full mauve lips with a relaxed smirk"
+            }
+        },
+        "hair": {
+            "color": "honey blonde",
+            "state": "well-kept",
+            "texture": "straight",
+            "style": "styled in braids",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "smooth with natural imperfections",
+            "details": "freckles and a subtle glow"
+        }
+    },
+    "pose": {
+        "overall": "standing confidently while applying makeup",
+        "position": {
+            "base": "standing",
+            "orientation": "facing the camera"
+        },
+        "torso": {
+            "direction": "slightly angled",
+            "curve": "slight curve in the hips"
+        },
+        "arms": {
+            "position": "one arm crossed, the other applying makeup"
+        },
+        "head": {
+            "turn": "slightly tilted upwards",
+            "expression": "content and focused"
+        }
+    },
+    "outfit": {
+        "type": "bralette paired with oversized jeans",
+        "color": "red bralette",
+        "style": "casual chic",
+        "fit": "loose and comfortable fit"
+    },
+    "environment": {
+        "location": "inside a modern hotel room",
+        "details": "minimalist decor with bright natural light",
+        "background": "a plush bed and a large mirror",
+        "props": "a small makeup kit on the table"
+    },
+    "lighting": {
+        "type": "natural light from large windows",
+        "quality": {
+            "intensity": "soft and diffused",
+            "direction": "from above"
+        },
+        "on_subject": {
+            "highlights": "highlights on her cheekbones and hair",
+            "shadows": "soft shadows under her chin"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "medium close-up",
+        "framing": "subject centered with room elements around her",
+        "focus": "sharp focus on the subject's face",
+        "style": "photorealistic with a warm tone"
+    },
+    "color_palette": {
+        "dominant": "soft pastels with red accents",
+        "accent": "natural hues",
+        "mood": "fresh and vibrant"
+    },
+    "vibe": {
+        "energy": "casual relaxed mood",
+        "mood": "innocent and pure",
+        "aesthetic": "clean professional look"
+    },
+    "critical_requirements": {
+        "SUBJECT": "must be a young woman with natural features",
+        "POSE": "applying makeup while standing confidently",
+        "OUTFIT": "casual yet stylish with a red bralette",
+        "SETTING": "inside a contemporary hotel room",
+        "STYLE": "photorealistic and natural"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #female #woman #darkeyes #hotel #cleanprofessionallook #innocentandpure #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/honey-blonde-asian-woman-a-contemporary-hotel-clean-professional-look?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
