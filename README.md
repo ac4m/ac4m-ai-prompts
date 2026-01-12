@@ -10,10 +10,20 @@ Ready-to-use AI prompts for generating stunning influencer images. Compatible wi
 
 ---
 
-## 📸 AI Prompts (11)
+## 📸 AI Prompts (21)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| 🖼️ | Dirty Blonde Male, Mature - Stylish Roof... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-mature-stylish-rooftop-during-editorial-high-fashion-with-urban-influences.md) |
+| 🖼️ | Platinum Blonde Female, Mid - Indoor Sta... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-indoor-staircase-in-high-fashion-editorial-with-a-glamorous-touch.md) |
+| 🖼️ | Strawberry Blonde Female, 19, - Luxuriou... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-19-luxurious-office-with-grunge-chic-with-modern-elegance.md) |
+| 🖼️ | Blue-haired Female, Early 30s, - Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-30s-indoor-ice-cream-modern-street-photography-with-a-cozy-feel.md) |
+| 🖼️ | Auburn-haired Female, Early 20s, - Amuse... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-female-early-20s-amusement-park-on-grunge-meets-playful-outdoor-fun.md) |
+| 🖼️ | Brunette Female, Mid-20s, Fit - A Vintag... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brunette-female-mid-20s-fit-a-vintage-hotel-minimalist-with-a-touch-of-grunge.md) |
+| 🖼️ | Light Brown Hair Female, - A Cozy, Warm ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-female-a-cozy-warm-clean-professional-look-with-a-hint-of-glam.md) |
+| 🖼️ | A Misty Outdoor Lighthouse Surrounded By... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-misty-outdoor-lighthouse-surrounded-by-sea-during-golden-hour-with-a-serene-atmosphere-brune.md) |
+| 🖼️ | Strawberry Blonde Female, Age - Japanese... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/strawberry-blonde-female-age-japanese-garden-at-film-noir-classic-with-a-modern-twist.md) |
+| 🖼️ | Dirty Blonde Male, 20 - Luxurious Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-20-luxurious-indoor-ambiance-editorial-high-fashion-with-a-sporty-twist.md) |
 | 🖼️ | Mature Elegant Character With - Cute Caf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/mature-elegant-character-with-cute-cafe-interior-cyberpunk-anime-aesthetic.md) |
 | 🖼️ | Red-haired Female, Late 20s, - Indoor Ic... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/red-haired-female-late-20s-indoor-ice-cream-clean-professional-look-with-a-hint-of-high-fas.md) |
 | 🖼️ | Pink-haired Female, Early 20s, - Art Gal... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/pink-haired-female-early-20s-art-gallery-with-chic-and-stylish.md) |
@@ -52,6 +62,6 @@ If you find these prompts useful, please give this repository a star! It helps o
 
 ---
 
-*Last updated: 2026-01-12 12:10:15 UTC*
+*Last updated: 2026-01-12 12:20:16 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
