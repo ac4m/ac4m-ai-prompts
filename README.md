@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-182+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-192+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,20 @@
 
 ---
 
-## :camera: AI Prompts (182)
+## :camera: AI Prompts (192)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Light Brown Male, 18-20 - Penthouse Suit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-male-18-20-penthouse-suite-with-clean-professional-with-a-modern-touch.md) |
+| :framed_picture: | A Cozy  Sunlit Living Room Scene Featuri... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-cozy-sunlit-living-room-scene-featuring-a-young-woman-sitting-on-a-plush-beige-sofa-she-has.md) |
+| :framed_picture: | Light Brown HAIR_COLOR Male, - Urban Cit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-color-male-urban-city-environment-gritty-raw-with-cinematic-dramatic-elements.md) |
+| :framed_picture: | Confident Young Woman in Urban Setting | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-young-woman-in-urban-setting.md) |
+| :framed_picture: | Stunning Young Asian Woman in 8K | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/stunning-young-asian-woman-in-8k.md) |
+| :framed_picture: | Platinum Blonde Female, Mid - Hotel Lobb... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-hotel-lobby-with-modern-cozy-aesthetic.md) |
+| :framed_picture: | African Male, Mid 20s, - A Modern Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/african-male-mid-20s-a-modern-industrial-modern-industrial-with-a-hint-of-urban-grit.md) |
+| :framed_picture: | Confident Redhead in a Sexy Bedroom | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/confident-redhead-in-a-sexy-bedroom.md) |
+| :framed_picture: | Honey Blonde Female, 20 - A Cozy Indoor ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/honey-blonde-female-20-a-cozy-indoor-dark-academia-with-a-touch-of-modern.md) |
+| :framed_picture: | African Female, Early 20s, - An Urban Ro... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/african-female-early-20s-an-urban-rooftop-dark-academia-with-a-modern-twist.md) |
 | :framed_picture: | Elegant Christmas Coffee Shop Scene | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/elegant-christmas-coffee-shop-scene.md) |
 | :framed_picture: | Light Brown Caucasian Male, - A Luxury B... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-caucasian-male-a-luxury-barbershop-film-noir-style-with-a-modern-twist.md) |
 | :framed_picture: | Dirty Blonde Male, Aged - A Rainy Outdoo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-aged-a-rainy-outdoor-a-blend-of-elegant-refinement-and-rugged-street-style.md) |
@@ -58,16 +68,6 @@
 | :framed_picture: | Latino Young Man, Early - Cigar Lounge W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/latino-young-man-early-cigar-lounge-with-dark-moody-with-elegant-undertones.md) |
 | :framed_picture: | Beautiful Anime Girl With - Cherry Bloss... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/beautiful-anime-girl-with-cherry-blossom-trees-studio-trigger-dynamic-style.md) |
 | :framed_picture: | Light Brown Female, Age - Indoor Gym Wit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-female-age-indoor-gym-with-dark-academia-with-a-modern-twist.md) |
-| :framed_picture: | Grey-haired Caucasian Man, Late - A Graf... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-haired-caucasian-man-late-a-graffiti-wall-a-vintage-classic-look-with-modern-street-ele.md) |
-| :framed_picture: | Brown-haired Male, Mid 30s, - A Gritty R... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-male-mid-30s-a-gritty-raw-modern-urban-aesthetic-with-a-hint-of-nostalgia.md) |
-| :framed_picture: | Black-haired Indian Young Man, - Urban C... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-haired-indian-young-man-urban-city-environment-clean-professional-with-an-editorial-hi.md) |
-| :framed_picture: | A Cozy Coffee Shop With Rustic Natural W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/a-cozy-coffee-shop-with-rustic-natural-wood-decor-filled-with-sunlight-streaming-through-the-win.md) |
-| :framed_picture: | Brown-haired Male, Early 20s, - Urban Ci... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/brown-haired-male-early-20s-urban-city-during-modern-urban-with-a-gritty-undertone.md) |
-| :framed_picture: | Grey Male, Early 40s, - Urban City Envir... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-male-early-40s-urban-city-environment-gritty-raw-with-an-editorial-high-fashion-feel.md) |
-| :framed_picture: | Quiet Dandere Type - School Swimming Poo... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-type-school-swimming-pool-90s-anime-aesthetic-with-kyoto-animation-soft-style.md) |
-| :framed_picture: | Auburn-haired Latino Male, Late - Indust... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/auburn-haired-latino-male-late-industrial-loft-with-cinematic-dramatic-style.md) |
-| :framed_picture: | Platinum Blonde Mixed Ethnicity - Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-mixed-ethnicity-indoor-photo-studio-stylish-and-contemporary.md) |
-| :framed_picture: | Light Brown Hair Male, - Luxury High-end... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/light-brown-hair-male-luxury-high-end-indoor-modern-contemporary-with-a-touch-of-rugged-charm.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 13:50:15 UTC*
+*Last updated: 2026-01-12 13:55:14 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
