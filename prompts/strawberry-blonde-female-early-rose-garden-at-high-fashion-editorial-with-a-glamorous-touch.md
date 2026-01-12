@@ -1,0 +1,132 @@
+# Strawberry Blonde Female, Early - Rose Garden At - High Fashion Editorial With A Glamorous Touch
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/strawberry-blonde-female-early-rose-garden-at-high-fashion-editorial-with-a-glamorous-touch?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/strawberry-blonde-female-early-rose-garden-at-high-fashion-editorial-with-a-glamorous-touch?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Strawberry Blonde Female, Early - Rose Garden At - High Fashion Editorial With A Glamorous Touch](https://ac4m.com/uploads/strawberry-blonde-female-early-rose-garden-at-high_6960d320acbb5.webp)
+
+## Description
+
+Strawberry Blonde Female, early 20s, slim body type, wearing mini skirt and bustier top, sitting on the floor with a playful demeanor, at Rose Garden, with a light-hearted and cheerful atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Rose Garden at Golden Hour, with soft light filtering through the petals creating a warm and inviting atmosphere.",
+    "subject": {
+        "character": "Strawberry Blonde Female, early 20s, slim body type",
+        "face": {
+            "structure": "delicate refined features",
+            "skin": "light skin tone with natural skin texture visible",
+            "eyes": {
+                "shape": "deep set eyes",
+                "color": "amber",
+                "expression": "soft gaze"
+            },
+            "mouth": {
+                "lips": "thin nude lips with a relaxed expression"
+            }
+        },
+        "hair": {
+            "color": "strawberry blonde",
+            "state": "medium length",
+            "texture": "thick coily hair",
+            "style": "messy bun",
+            "shine": "natural shine"
+        },
+        "skin_state": {
+            "texture": "natural skin texture",
+            "details": "some visible skin imperfections"
+        }
+    },
+    "pose": {
+        "overall": "sitting on the floor with a playful demeanor",
+        "position": {
+            "base": "sitting",
+            "orientation": "turned slightly to the right"
+        },
+        "torso": {
+            "direction": "three-quarter angle",
+            "curve": "slight curve of the back"
+        },
+        "arms": {
+            "position": "one arm behind the head and the other resting on the cheek"
+        },
+        "head": {
+            "turn": "turned right",
+            "expression": "playful smile"
+        },
+        "legs": {
+            "position": "one leg raised"
+        }
+    },
+    "outfit": {
+        "type": "mini skirt and bustier top",
+        "color": "pastel colors",
+        "style": "oversized casual fit",
+        "fit": "comfortable and relaxed"
+    },
+    "environment": {
+        "location": "Rose Garden",
+        "details": "faded flowers in soft focus",
+        "background": "lush greenery and blooming roses",
+        "props": "holding a wine glass"
+    },
+    "lighting": {
+        "type": "cinematic lighting",
+        "quality": {
+            "intensity": "soft",
+            "direction": "from above"
+        },
+        "on_subject": {
+            "highlights": "on the face and hair creating a warm glow",
+            "shadows": "subtle shadows enhancing facial features"
+        }
+    },
+    "photography": {
+        "angle": "eye level",
+        "shot": "medium close-up",
+        "framing": "subject centered with a blurred background",
+        "focus": "sharp focus on the face",
+        "style": "Instagram aesthetic"
+    },
+    "color_palette": {
+        "dominant": "warm pastels",
+        "accent": "soft greens and pinks",
+        "mood": "dreamy and romantic"
+    },
+    "vibe": {
+        "energy": "playful and relaxed",
+        "mood": "light-hearted and cheerful",
+        "aesthetic": "high fashion editorial with a glamorous touch"
+    },
+    "critical_requirements": {
+        "SUBJECT": "realistic young woman with natural features",
+        "POSE": "natural and relaxed pose",
+        "OUTFIT": "stylish yet comfortable clothing",
+        "SETTING": "beautiful rose garden at golden hour",
+        "STYLE": "authentic UGC social media style"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #female #woman #ambereyes #garden #highfashioneditorialwithaglamoroustouch #light-heartedandcheerful #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/strawberry-blonde-female-early-rose-garden-at-high-fashion-editorial-with-a-glamorous-touch?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
