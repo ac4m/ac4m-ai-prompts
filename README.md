@@ -1,7 +1,7 @@
 # :art: AC4M.com - AI Influencer Prompts
 
 [![Website](https://img.shields.io/badge/Website-AC4M.com-blue?style=for-the-badge)](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
-[![Prompts](https://img.shields.io/badge/Prompts-342+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
+[![Prompts](https://img.shields.io/badge/Prompts-350+-green?style=for-the-badge)](https://ac4m.com?utm_source=github)
 [![Models](https://img.shields.io/badge/AI_Models-0+-purple?style=for-the-badge)](https://ac4m.com/models?utm_source=github)
 
 > :sparkles: **Ready-to-use AI prompts** for generating stunning virtual influencer images.
@@ -14,10 +14,18 @@
 
 ---
 
-## :camera: AI Prompts (342)
+## :camera: AI Prompts (350)
 
 | Preview | Title | Link |
 |---------|-------|------|
+| :framed_picture: | Blonde Male, Late 30s, - Outdoor Basketb... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blonde-male-late-30s-outdoor-basketball-court-refined-urban-style.md) |
+| :framed_picture: | Latina Young Woman, Age - A Luxury High-... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/latina-young-woman-age-a-luxury-high-end-vintage-film-look-with-a-gothic-dark-romantic-feel.md) |
+| :framed_picture: | Caucasian Female, 18-20 Years - An Urban... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/caucasian-female-18-20-years-an-urban-city-urban-grunge-with-a-festive-twist.md) |
+| :framed_picture: | Dirty Blonde Caucasian Male, - Elegant R... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-caucasian-male-elegant-refined-indoor-urban-street-with-an-elegant-twist.md) |
+| :framed_picture: | Dirty Blonde Male, Late - Indoor Bar Wit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-late-indoor-bar-with-vintage-classic-with-a-modern-twist.md) |
+| :framed_picture: | Handsome Anime Boy - Modern Living Room ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/handsome-anime-boy-modern-living-room-ufotable-detailed-animation-style.md) |
+| :framed_picture: | Golden Blonde Female, 19, - Rooftop Bar ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-19-rooftop-bar-at-bohemian-eclectic-with-a-contemporary-touch.md) |
+| :framed_picture: | Bishounen (beautiful Boy) With - School ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/bishounen-beautiful-boy-with-school-gymnasium-filled-isekai-fantasy-anime-mixed-with-slice.md) |
 | :framed_picture: | Golden Blonde Female, Late - An Elegant ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-female-late-an-elegant-hotel-modern-street-photography-style.md) |
 | :framed_picture: | Platinum Blonde Female, Mid - A Cozy Rus... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-mid-a-cozy-rustic-vintage-film-with-a-modern-twist.md) |
 | :framed_picture: | Platinum Blonde Female, Early - Luxury W... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-early-luxury-wine-bar-soft-natural-lighting-with-a-touch-of-elegance.md) |
@@ -60,14 +68,6 @@
 | :framed_picture: | Dirty Blonde Male, Mid - A Rainy Street ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dirty-blonde-male-mid-a-rainy-street-modern-urban-style.md) |
 | :framed_picture: | Ikemen (handsome Man) - Urban Setting At... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/ikemen-handsome-man-urban-setting-at-cyberpunk-anime-aesthetic.md) |
 | :framed_picture: | Golden Blonde Middle Eastern - Modern In... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/golden-blonde-middle-eastern-modern-interior-design-minimalist-yet-bold.md) |
-| :framed_picture: | Quiet Dandere Type - Sunny Beach Seaside... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/quiet-dandere-type-sunny-beach-seaside-clamp-elegant-art-style.md) |
-| :framed_picture: | Dark Brown Hair Female, - A Cozy Living ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-hair-female-a-cozy-living-soft-natural-lighting-with-a-cozy-homey-feel.md) |
-| :framed_picture: | Blue-haired Female, Early 20s, - Lavende... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/blue-haired-female-early-20s-lavender-field-during-cottagecore-with-a-modern-twist.md) |
-| :framed_picture: | Dark Brown Hair Female, - Dressing Room ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-hair-female-dressing-room-with-modern-chic-with-a-touch-of-elegance.md) |
-| :framed_picture: | Platinum Blonde Female, Late - A Beautif... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/platinum-blonde-female-late-a-beautiful-rose-elegant-rose-garden-with-high-fashion-elements.md) |
-| :framed_picture: | Grey Haired Middle Eastern - Industrial ... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/grey-haired-middle-eastern-industrial-loft-style-dark-moody-with-a-stylish-edge.md) |
-| :framed_picture: | Dark Brown Female, Age - Art Gallery Wit... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/dark-brown-female-age-art-gallery-with-high-fashion-editorial-with-a-touch-of-casual.md) |
-| :framed_picture: | Black Female, Early 20s, - Modern Indoor... | [View](https://github.com/ac4m/ac4m-ai-prompts/blob/main/prompts/black-female-early-20s-modern-indoor-library-vintage-film-look.md) |
 
 ---
 
@@ -148,6 +148,6 @@ It helps others discover these resources and motivates us to add more content.
 
 ---
 
-*Last updated: 2026-01-12 14:27:13 UTC*
+*Last updated: 2026-01-12 14:35:14 UTC*
 
 **[Visit AC4M.com](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)** for more AI-generated content!
