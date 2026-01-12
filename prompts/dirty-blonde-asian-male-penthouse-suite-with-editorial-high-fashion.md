@@ -1,0 +1,129 @@
+# Dirty Blonde Asian Male, - Penthouse Suite With - Editorial High Fashion
+
+[![Visit AC4M.com](https://img.shields.io/badge/View_on-AC4M.com-blue?style=for-the-badge)](https://ac4m.com/p/dirty-blonde-asian-male-penthouse-suite-with-editorial-high-fashion?utm_source=github&utm_medium=readme&utm_campaign=organic)
+[![Get Prompt](https://img.shields.io/badge/Get_Full_Prompt-Free-green?style=for-the-badge)](https://ac4m.com/p/dirty-blonde-asian-male-penthouse-suite-with-editorial-high-fashion?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+![Dirty Blonde Asian Male, - Penthouse Suite With - Editorial High Fashion](https://ac4m.com/uploads/dirty-blonde-asian-male-penthouse-suite-with-edito_695bb1ad9d197.webp)
+
+## Description
+
+Dirty Blonde Asian male, mid 30s, tall and slim, wearing business casual, lying down casually on a plush sofa, at inside the penthouse suite, with a serious yet relaxed atmosphere.
+
+## Prompt
+
+```
+{
+    "scene": "Penthouse Suite with a dark moody atmosphere, evening time, overlooking the street below during a stormy night.",
+    "subject": {
+        "character": "Dirty Blonde Asian male, mid 30s, tall and slim",
+        "face": {
+            "structure": "square strong jawline and high cheekbones",
+            "skin": "dark tone with natural skin texture",
+            "eyes": {
+                "shape": "round and hooded",
+                "color": "dark brown",
+                "expression": "mysterious and piercing"
+            },
+            "mouth": {
+                "lips": "thin lips with a relaxed expression"
+            }
+        },
+        "hair": {
+            "color": "dirty blonde",
+            "state": "medium length",
+            "texture": "straight",
+            "style": "quiff",
+            "shine": "slightly shiny"
+        },
+        "skin_state": {
+            "texture": "natural with minor imperfections",
+            "details": "no visible blemishes or acne"
+        }
+    },
+    "pose": {
+        "overall": "lying down casually on a plush sofa",
+        "position": {
+            "base": "lying position",
+            "orientation": "facing slightly away from the camera"
+        },
+        "torso": {
+            "direction": "frontal angle",
+            "curve": "relaxed with a straight posture"
+        },
+        "arms": {
+            "position": "arms at sides"
+        },
+        "head": {
+            "turn": "head turned slightly away",
+            "expression": "serious with a hint of relaxation"
+        }
+    },
+    "outfit": {
+        "type": "business casual",
+        "color": "dark colors with a leather biker jacket",
+        "style": "minimalist with a trendy edge",
+        "fit": "fitted but comfortable"
+    },
+    "environment": {
+        "location": "inside the penthouse suite",
+        "details": "luxurious decor with minimalistic elements",
+        "background": "dimly lit with stormy city views through large windows",
+        "props": "a coffee cup on the table next to him"
+    },
+    "lighting": {
+        "type": "studio lighting",
+        "quality": {
+            "intensity": "moody with soft highlights",
+            "direction": "split lighting creating dramatic shadows"
+        },
+        "on_subject": {
+            "highlights": "highlighting the face and hair",
+            "shadows": "deep shadows on one side of the face"
+        }
+    },
+    "photography": {
+        "angle": "high angle looking down at the subject",
+        "shot": "medium close-up focusing on the face",
+        "framing": "centered in the frame with a slight vignette",
+        "focus": "sharp focus on the eyes",
+        "style": "professional editorial headshot"
+    },
+    "color_palette": {
+        "dominant": "dark blues and greys",
+        "accent": "touches of warm gold from the lighting",
+        "mood": "intensely moody with a touch of warmth"
+    },
+    "vibe": {
+        "energy": "intense focused energy",
+        "mood": "serious yet relaxed",
+        "aesthetic": "editorial high fashion"
+    },
+    "critical_requirements": {
+        "SUBJECT": "Young Asian male with a natural look",
+        "POSE": "Relaxed lying position with a serious expression",
+        "OUTFIT": "Biker jacket paired with business casual attire",
+        "SETTING": "Luxurious penthouse suite at night",
+        "STYLE": "Minimalist and moody"
+    }
+}
+```
+
+## Details
+
+- **AI Tool:** Imagen 4
+- **Type:** AI Generated Image
+- **Tags:** #blondehair #male #man #darkskin #darkeyes #street #editorialhighfashion #seriousyetrelaxed #ugc #aigenerated #photorealistic #influencer
+
+---
+
+## :link: Links
+
+- [View Full Details on AC4M.com](https://ac4m.com/p/dirty-blonde-asian-male-penthouse-suite-with-editorial-high-fashion?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [Browse All AI Prompts](https://ac4m.com?utm_source=github&utm_medium=readme&utm_campaign=organic)
+- [AI Model Gallery](https://ac4m.com/models?utm_source=github&utm_medium=readme&utm_campaign=organic)
+
+---
+
+*Generated by [AC4M.com](https://ac4m.com) - AI Influencer Prompts Platform*
